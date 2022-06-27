@@ -20,26 +20,25 @@ with open("supported_phones.json", "w", encoding="utf-8") as file, PoolManager(n
         for phone in tqdm(vendor.find_all("div", {"class": "item"}), desc="Phones", leave=False):
             phone_info = {}
             phone_info["vendor"] = vendor_name
-            phone_info["model"] = phone.find("span", {"class": "devicename"}).get_text().strip().lower().replace("\n", "/")
-            phone_info["code"] = phone.find("span", {"class": "codename"}).get_text().strip().lower()
+            phone_info["model"] = phone.find("span", {"class": "devicename"}).get_text().strip().replace("\n", "/")
+            phone_info["code"] = phone.find("span", {"class": "codename"}).get_text().strip()
             phone_html = http.request("GET", base_url + phone_info["code"])
             phone_soup = BeautifulSoup(phone_html.data, "html.parser")
             table = phone_soup.find("table", {"class": "deviceinfo"})
-            if table:
-                for info in table.find_all("tr"):
-                    th = info.find("th").get_text().strip().lower().replace("\n", "/") if info.find("th") else None
-                    if th in wanted_info:
-                        td = info.find("td").get_text().strip().lower().replace("\n", "/")
-                        if th == "released":
-                            try:
-                                released_date = parse(td)
-                                phone_info[th] = str(released_date).split(" ")[0]
-                            except Exception:
-                                fix_release_date = findall("\d{4}", td)
-                                released_date = parse(fix_release_date[-1])
-                                phone_info[th] = str(released_date).split(" ")[0]
-                        else:
-                            phone_info[th] = td
-                supported_phones.append(phone_info)
+            for info in table.find_all("tr"):
+                th = info.find("th").get_text().strip().lower() if info.find("th") else None
+                if th in wanted_info:
+                    td = info.find("td").get_text().strip().replace("\n", "/")
+                    if th == "released":
+                        try:
+                            released_date = parse(td)
+                            phone_info[th] = str(released_date).split(" ")[0]
+                        except Exception:
+                            fix_release_date = findall("\d{4}", td)
+                            released_date = parse(fix_release_date[-1])
+                            phone_info[th] = str(released_date).split(" ")[0]
+                    else:
+                        phone_info[th] = td
+            supported_phones.append(phone_info)
     supported_phones.sort(key=lambda sort: sort[sort_by], reverse=True)
     dump(supported_phones, file, indent=2)
