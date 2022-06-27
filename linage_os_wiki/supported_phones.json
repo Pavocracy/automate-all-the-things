@@ -1,0 +1,3206 @@
+[
+  {
+    "vendor": "google",
+    "model": "pixel 5a",
+    "code": "barbet",
+    "released": "2021-08-27",
+    "soc": "qualcomm sm7250 snapdragon 765g",
+    "ram": "6 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte/5g"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "poco f3 / redmi k40 / mi 11x",
+    "code": "alioth",
+    "released": "2021-06-27",
+    "soc": "qualcomm sm8250-ac snapdragon 870",
+    "ram": "6/8/12 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "asus",
+    "model": "zenfone 8",
+    "code": "sake",
+    "released": "2021-05-27",
+    "soc": "qualcomm sm8350 snapdragon 888",
+    "ram": "6/8/12/16 gb lpddr5",
+    "network": "2g gsm/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 9",
+    "code": "lemonade",
+    "released": "2021-03-27",
+    "soc": "qualcomm sm8350 snapdragon 888",
+    "ram": "8/12 gb lpddr5",
+    "network": "2g gsm/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 9 pro",
+    "code": "lemonadep",
+    "released": "2021-03-27",
+    "soc": "qualcomm sm8350 snapdragon 888",
+    "ram": "8/12gb gb lpddr5",
+    "network": "2g gsm/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "poco x3 pro",
+    "code": "vayu",
+    "released": "2021-03-27",
+    "soc": "qualcomm sm8150-ac snapdragon 860",
+    "ram": "6/8 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "edge s / moto g100",
+    "code": "nio",
+    "released": "2021-02-27",
+    "soc": "qualcomm sm8250-ac snapdragon 870",
+    "ram": "6/8 gb lpddr5",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte/5g"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel 4a 5g",
+    "code": "bramble",
+    "released": "2020-10-27",
+    "soc": "qualcomm sm7250 snapdragon 765g",
+    "ram": "6 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte/5g"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel 5",
+    "code": "redfin",
+    "released": "2020-10-27",
+    "soc": "qualcomm sm7250 snapdragon 765g",
+    "ram": "8 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte/5g"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 8t",
+    "code": "kebab",
+    "released": "2020-10-27",
+    "soc": "qualcomm sm8250 snapdragon 865",
+    "ram": "8/12gb gb lpddr4x",
+    "network": "2g gsm/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "poco x3 nfc",
+    "code": "surya",
+    "released": "2020-09-08",
+    "soc": "qualcomm sm7150-ac snapdragon 732g",
+    "ram": "6/8 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "asus",
+    "model": "rog phone 3",
+    "code": "obiwan",
+    "released": "2020-08-27",
+    "soc": "qualcomm sm8250 snapdragon 865+",
+    "ram": "8/12/16 gb",
+    "network": "2g gsm/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel 4a",
+    "code": "sunfish",
+    "released": "2020-08-27",
+    "soc": "qualcomm sdm730 snapdragon 730g",
+    "ram": "6 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus nord",
+    "code": "avicii",
+    "released": "2020-07-21",
+    "soc": "qualcomm sm7250 snapdragon 765g",
+    "ram": "6/8/12 gb lpddr4",
+    "network": "2g gsm/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "shift",
+    "model": "shift6mq",
+    "code": "axolotl",
+    "released": "2020-06-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "8 gb lpddr4x",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi 10t / mi 10t pro / redmi k30s ultra",
+    "code": "apollon",
+    "released": "2020-06-27",
+    "soc": "qualcomm sm8250 snapdragon 865",
+    "ram": "6/8 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi 10t lite / mi 10i / redmi note 9 pro 5g",
+    "code": "gauguin",
+    "released": "2020-06-27",
+    "soc": "qualcomm sm7225 snapdragon 750g 5g",
+    "ram": "6/8 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte/5g"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "poco f2 pro / redmi k30 pro / redmi k30 pro zoom edition",
+    "code": "lmi",
+    "released": "2020-06-27",
+    "soc": "qualcomm sm8250 snapdragon 865",
+    "ram": "6/8/12 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "poco m2 pro / redmi note 9s / redmi note 9 pro / redmi note 9 pro max",
+    "code": "miatoll",
+    "released": "2020-06-27",
+    "soc": "qualcomm sm7125 snapdragon 720g",
+    "ram": "4/6/8 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "edge",
+    "code": "racer",
+    "released": "2020-05-27",
+    "soc": "qualcomm sm7250 snapdragon 765g",
+    "ram": "6 gb lpddr4x",
+    "network": "2g gsm/2g cdma/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g 5g / motorola one 5g ace",
+    "code": "kiev",
+    "released": "2020-05-27",
+    "soc": "qualcomm sm7225 snapdragon 750g",
+    "ram": "4/6 gb lpddr4x",
+    "network": "2g gsm/2g cdma/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g 5g plus / motorola one 5g",
+    "code": "nairo",
+    "released": "2020-05-27",
+    "soc": "qualcomm sm7250 snapdragon 765g",
+    "ram": "4/6/8 gb lpddr4x",
+    "network": "2g gsm/2g cdma/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi 10 lite 5g",
+    "code": "monet",
+    "released": "2020-05-27",
+    "soc": "qualcomm sm7250 snapdragon 765g",
+    "ram": "6/8 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 8",
+    "code": "instantnoodle",
+    "released": "2020-04-27",
+    "soc": "qualcomm sm8250 snapdragon 865",
+    "ram": "8/12gb gb lpddr4x",
+    "network": "2g gsm/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 8 pro",
+    "code": "instantnoodlep",
+    "released": "2020-04-27",
+    "soc": "qualcomm sm8250 snapdragon 865",
+    "ram": "8/12gb gb lpddr5",
+    "network": "2g gsm/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab s6 lite (lte)",
+    "code": "gta4xl",
+    "released": "2020-04-02",
+    "soc": "samsung exynos 9611",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab s6 lite (wi-fi)",
+    "code": "gta4xlwifi",
+    "released": "2020-04-02",
+    "soc": "samsung exynos 9611",
+    "ram": "4 gb",
+    "network": ""
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto one action",
+    "code": "troika",
+    "released": "2019-10-31",
+    "soc": "exynos 9609",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "nvidia",
+    "model": "shield tv 2019 pro [android tv]",
+    "code": "mdarcy",
+    "released": "2019-10-28",
+    "soc": "nvidia tegra x1+ (t210b01)",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "nvidia",
+    "model": "shield tv 2019 pro [tablet]",
+    "code": "mdarcy_tab",
+    "released": "2019-10-28",
+    "soc": "nvidia tegra x1+ (t210b01)",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "f-x-tec",
+    "model": "pro\u00b9",
+    "code": "pro1",
+    "released": "2019-10-27",
+    "soc": "qualcomm msm8998 snapdragon 835",
+    "ram": "6 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 7t pro",
+    "code": "hotdog",
+    "released": "2019-10-27",
+    "soc": "qualcomm sm8150 snapdragon 855+",
+    "ram": "8/12gb gb lpddr4x",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel 4",
+    "code": "flame",
+    "released": "2019-09-27",
+    "soc": "qualcomm sm8150 snapdragon 855",
+    "ram": "6 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel 4 xl",
+    "code": "coral",
+    "released": "2019-09-27",
+    "soc": "qualcomm sm8150 snapdragon 855",
+    "ram": "6 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 7t",
+    "code": "hotdogb",
+    "released": "2019-09-27",
+    "soc": "qualcomm sm8150 snapdragon 855+",
+    "ram": "8/12gb gb lpddr4x",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lenovo",
+    "model": "z6 pro",
+    "code": "zippo",
+    "released": "2019-09-11",
+    "soc": "qualcomm sm8150 snapdragon 855",
+    "ram": "6/8/12 gb lpddr4x",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note10",
+    "code": "d1",
+    "released": "2019-08-23",
+    "soc": "samsung exynos 9825",
+    "ram": "8 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note10+",
+    "code": "d2s",
+    "released": "2019-08-23",
+    "soc": "samsung exynos 9825",
+    "ram": "12 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note10+ 5g",
+    "code": "d2x",
+    "released": "2019-08-23",
+    "soc": "samsung exynos 9825",
+    "ram": "12 gb",
+    "network": "2g gsm/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab s5e (lte)",
+    "code": "gts4lv",
+    "released": "2019-06-27",
+    "soc": "qualcomm sdm670 snapdragon 670",
+    "ram": "4/6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab s5e (wi-fi)",
+    "code": "gts4lvwifi",
+    "released": "2019-06-27",
+    "soc": "qualcomm sdm670 snapdragon 670",
+    "ram": "4/6 gb",
+    "network": ""
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi note 8 / 8t",
+    "code": "ginkgo",
+    "released": "2019-06-27",
+    "soc": "qualcomm sdm665 snapdragon 665",
+    "ram": "3/4/6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi k20 / mi 9t",
+    "code": "davinci",
+    "released": "2019-06-06",
+    "soc": "qualcomm sm7150-aa snapdragon 730",
+    "ram": "6/8 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 7",
+    "code": "guacamoleb",
+    "released": "2019-05-27",
+    "soc": "qualcomm sm8150 snapdragon 855",
+    "ram": "6/8 gb lpddr4x",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 7 pro",
+    "code": "guacamole",
+    "released": "2019-05-27",
+    "soc": "qualcomm sm8150 snapdragon 855",
+    "ram": "6/8/12gb gb lpddr4x",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto one vision/motorola p50",
+    "code": "kane",
+    "released": "2019-05-15",
+    "soc": "exynos 9609",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel 3a",
+    "code": "sargo",
+    "released": "2019-04-27",
+    "soc": "qualcomm sdm670 snapdragon 670",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel 3a xl",
+    "code": "bonito",
+    "released": "2019-04-27",
+    "soc": "qualcomm sdm670 snapdragon 670",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g7 play",
+    "code": "channel",
+    "released": "2019-03-27",
+    "soc": "qualcomm sdm632 snapdragon 632",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi 7",
+    "code": "onclite",
+    "released": "2019-03-27",
+    "soc": "qualcomm sdm632 snapdragon 632",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "nvidia",
+    "model": "jetson (nano / nano 2gb) [android tv]",
+    "code": "porg",
+    "released": "2019-03-18",
+    "soc": "nvidia tegra x1 (t210)",
+    "ram": "2/4 gb",
+    "network": ""
+  },
+  {
+    "vendor": "nvidia",
+    "model": "jetson (nano / nano 2gb) [tablet]",
+    "code": "porg_tab",
+    "released": "2019-03-18",
+    "soc": "nvidia tegra x1 (t210)",
+    "ram": "2/4 gb",
+    "network": ""
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi note 7 pro",
+    "code": "violet",
+    "released": "2019-03-13",
+    "soc": "qualcomm sm6150 snapdragon 675",
+    "ram": "4 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s10",
+    "code": "beyond1lte",
+    "released": "2019-03-08",
+    "soc": "samsung exynos 9820",
+    "ram": "8 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s10 5g",
+    "code": "beyondx",
+    "released": "2019-03-08",
+    "soc": "samsung exynos 9820",
+    "ram": "8 gb",
+    "network": "2g gsm/3g umts/4g lte/5g"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s10+",
+    "code": "beyond2lte",
+    "released": "2019-03-08",
+    "soc": "samsung exynos 9820",
+    "ram": "8/12 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s10e",
+    "code": "beyond0lte",
+    "released": "2019-03-08",
+    "soc": "samsung exynos 9820",
+    "ram": "6/8 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g7",
+    "code": "river",
+    "released": "2019-02-27",
+    "soc": "qualcomm sdm632 snapdragon 632",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g7 plus",
+    "code": "lake",
+    "released": "2019-02-27",
+    "soc": "qualcomm sdm636 snapdragon 636",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g7 power",
+    "code": "ocean",
+    "released": "2019-02-27",
+    "soc": "qualcomm sdm632 snapdragon 632",
+    "ram": "3 gb, 4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia 10",
+    "code": "kirin",
+    "released": "2019-02-27",
+    "soc": "qualcomm sdm630 snapdragon 630",
+    "ram": "3/4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia 10 plus",
+    "code": "mermaid",
+    "released": "2019-02-27",
+    "soc": "qualcomm sdm636 snapdragon 636",
+    "ram": "4/6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lenovo",
+    "model": "z5 pro gt",
+    "code": "heart",
+    "released": "2019-01-29",
+    "soc": "qualcomm sm8150 snapdragon 855",
+    "ram": "6/8/12 gb lpddr4x",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy m20",
+    "code": "m20lte",
+    "released": "2019-01-28",
+    "soc": "samsung exynos 7904",
+    "ram": "3/4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi note 7",
+    "code": "lavender",
+    "released": "2019-01-27",
+    "soc": "qualcomm sdm660 snapdragon 660",
+    "ram": "3/4/6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 6t",
+    "code": "fajita",
+    "released": "2018-11-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "6/8 gb lpddr4x",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel 3",
+    "code": "blueline",
+    "released": "2018-10-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel 3 xl",
+    "code": "crosshatch",
+    "released": "2018-10-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "razer",
+    "model": "phone 2",
+    "code": "aura",
+    "released": "2018-10-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "8 gb lpddr4x",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia xz3",
+    "code": "akatsuki",
+    "released": "2018-10-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "4 or 6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi note 6 pro",
+    "code": "twolip",
+    "released": "2018-10-27",
+    "soc": "qualcomm sdm660 snapdragon 636",
+    "ram": "3/4/6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto one power",
+    "code": "chef",
+    "released": "2018-10-10",
+    "soc": "qualcomm sdm636 snapdragon 636",
+    "ram": "4 gb, 6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi 8 lite",
+    "code": "platina",
+    "released": "2018-09-27",
+    "soc": "qualcomm sdm660 snapdragon 660",
+    "ram": "4 gb / 6 gb (lpddr4x)",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "poco f1",
+    "code": "beryllium",
+    "released": "2018-08-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "6/8 gb lpddr4x",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note 9",
+    "code": "crownlte",
+    "released": "2018-08-09",
+    "soc": "samsung exynos 9810",
+    "ram": "6/8 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia xa2 plus",
+    "code": "voyager",
+    "released": "2018-07-27",
+    "soc": "qualcomm sdm630 snapdragon 630",
+    "ram": "4/6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi 8",
+    "code": "dipper",
+    "released": "2018-07-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "6/8 gb lpddr4x",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi a2",
+    "code": "jasmine_sprout",
+    "released": "2018-07-27",
+    "soc": "qualcomm sdm660 snapdragon 660",
+    "ram": "4/6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto z3 play",
+    "code": "beckham",
+    "released": "2018-06-27",
+    "soc": "qualcomm sdm636 snapdragon 636",
+    "ram": "4 gb, 6 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "bq",
+    "model": "aquaris x2",
+    "code": "zangya",
+    "released": "2018-05-27",
+    "soc": "qualcomm sdm660 snapdragon 636",
+    "ram": "3/4 gb lpddr3",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "bq",
+    "model": "aquaris x2 pro",
+    "code": "zangyapro",
+    "released": "2018-05-27",
+    "soc": "qualcomm sdm660 snapdragon 660",
+    "ram": "4/6 gb lpddr3",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto e5 plus (xt1924-1/2/4/5)",
+    "code": "rhannah",
+    "released": "2018-05-27",
+    "soc": "qualcomm msm8917 snapdragon 425",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto e5 plus (xt1924-3/9)",
+    "code": "ahannah",
+    "released": "2018-05-27",
+    "soc": "qualcomm msm8937 snapdragon 430",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto e5 plus (xt1924-6/7/8)",
+    "code": "hannah",
+    "released": "2018-05-27",
+    "soc": "qualcomm msm8940 snapdragon 435",
+    "ram": "3 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g6 plus",
+    "code": "evert",
+    "released": "2018-05-27",
+    "soc": "qualcomm sdm630 snapdragon 630",
+    "ram": "4/6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "huawei",
+    "model": "p20 pro",
+    "code": "charlotte",
+    "released": "2018-04-27",
+    "soc": "hisilicon kirin 970",
+    "ram": "6/8 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 6",
+    "code": "enchilada",
+    "released": "2018-04-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "6/8 gb lpddr4x",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia xz2",
+    "code": "akari",
+    "released": "2018-04-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "4 or 6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia xz2 compact",
+    "code": "xz2c",
+    "released": "2018-04-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia xz2 premium",
+    "code": "aurora",
+    "released": "2018-04-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi 6x",
+    "code": "wayne",
+    "released": "2018-04-27",
+    "soc": "qualcomm sdm660 snapdragon 660",
+    "ram": "4/6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi mix 2s",
+    "code": "polaris",
+    "released": "2018-04-27",
+    "soc": "qualcomm sdm845 snapdragon 845",
+    "ram": "6/8 gb lpddr4x",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "huawei",
+    "model": "p20 lite",
+    "code": "anne",
+    "released": "2018-03-27",
+    "soc": "hisilicon kirin 659",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s9",
+    "code": "starlte",
+    "released": "2018-03-11",
+    "soc": "samsung exynos 9810",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s9+",
+    "code": "star2lte",
+    "released": "2018-03-11",
+    "soc": "samsung exynos 9810",
+    "ram": "6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia xa2",
+    "code": "pioneer",
+    "released": "2018-02-27",
+    "soc": "qualcomm sdm630 snapdragon 630",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia xa2 ultra",
+    "code": "discovery",
+    "released": "2018-02-27",
+    "soc": "qualcomm sdm630 snapdragon 630",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi note 5 pro",
+    "code": "whyred",
+    "released": "2018-02-27",
+    "soc": "qualcomm sdm636 snapdragon 636",
+    "ram": "3 gb / 4 gb / 6 gb (lpddr4x)",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "huawei",
+    "model": "honor view 10",
+    "code": "berkeley",
+    "released": "2018-01-27",
+    "soc": "hisilicon kirin 970",
+    "ram": "4/6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "huawei",
+    "model": "p smart",
+    "code": "figo",
+    "released": "2017-12-27",
+    "soc": "hisilicon kirin 659",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 5t",
+    "code": "dumpling",
+    "released": "2017-11-27",
+    "soc": "qualcomm msm8998 snapdragon 835",
+    "ram": "6/8 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "razer",
+    "model": "phone",
+    "code": "cheryl",
+    "released": "2017-11-27",
+    "soc": "qualcomm msm8998 snapdragon 835",
+    "ram": "8 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel 2",
+    "code": "walleye",
+    "released": "2017-10-27",
+    "soc": "qualcomm sdm835 snapdragon 835",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel 2 xl",
+    "code": "taimen",
+    "released": "2017-10-27",
+    "soc": "qualcomm sdm835 snapdragon 835",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto x4",
+    "code": "payton",
+    "released": "2017-10-27",
+    "soc": "qualcomm sdm630 snapdragon 630",
+    "ram": "3/4/6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi a1",
+    "code": "tissot",
+    "released": "2017-10-27",
+    "soc": "qualcomm msm8953 snapdragon 625",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi mix 2",
+    "code": "chiron",
+    "released": "2017-09-27",
+    "soc": "qualcomm msm8998 snapdragon 835",
+    "ram": "6/8 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi note 3",
+    "code": "jason",
+    "released": "2017-09-27",
+    "soc": "qualcomm sdm660 snapdragon 660",
+    "ram": "4/6 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "essential",
+    "model": "ph-1",
+    "code": "mata",
+    "released": "2017-08-27",
+    "soc": "qualcomm msm8998 snapdragon 835",
+    "ram": "4 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g5s",
+    "code": "montana",
+    "released": "2017-08-27",
+    "soc": "qualcomm msm8937 snapdragon 430",
+    "ram": "2/3/4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto z2 force",
+    "code": "nash",
+    "released": "2017-07-27",
+    "soc": "qualcomm msm8998 snapdragon 835",
+    "ram": "4 gb, 6 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "bq",
+    "model": "aquaris x",
+    "code": "bardock",
+    "released": "2017-06-27",
+    "soc": "qualcomm msm8953 pro snapdragon 626",
+    "ram": "3/4 gb lpddr3",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "bq",
+    "model": "aquaris x pro",
+    "code": "bardockpro",
+    "released": "2017-06-27",
+    "soc": "qualcomm msm8953 pro snapdragon 626",
+    "ram": "3/4 gb lpddr3",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "leeco",
+    "model": "le pro3 / le pro3 elite",
+    "code": "zl1",
+    "released": "2017-06-27",
+    "soc": "qualcomm msm8996 snapdragon 820 (le pro3 elite) / qualcomm msm8996 pro snapdragon 821 (le pro3)",
+    "ram": "4/6 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto z2 play",
+    "code": "albus",
+    "released": "2017-06-27",
+    "soc": "qualcomm msm8953-pro snapdragon 626",
+    "ram": "4 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "nubia",
+    "model": "z17",
+    "code": "nx563j",
+    "released": "2017-06-27",
+    "soc": "qualcomm msm8998 snapdragon 835",
+    "ram": "6/8 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 5",
+    "code": "cheeseburger",
+    "released": "2017-06-27",
+    "soc": "qualcomm msm8998 snapdragon 835",
+    "ram": "6/8 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi 4(x)",
+    "code": "santoni",
+    "released": "2017-05-27",
+    "soc": "qualcomm msm8940 snapdragon 435",
+    "ram": "2/3/4 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi 6",
+    "code": "sagit",
+    "released": "2017-04-27",
+    "soc": "qualcomm msm8998 snapdragon 835",
+    "ram": "4/6 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g5",
+    "code": "cedric",
+    "released": "2017-03-27",
+    "soc": "qualcomm msm8937 snapdragon 430",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "nvidia",
+    "model": "jetson (tx2 / tx2 nx) [android tv]",
+    "code": "quill",
+    "released": "2017-03-14",
+    "soc": "nvidia tegra x2 (t186)",
+    "ram": "4/8 gb",
+    "network": ""
+  },
+  {
+    "vendor": "nvidia",
+    "model": "jetson (tx2 / tx2 nx) [tablet]",
+    "code": "quill_tab",
+    "released": "2017-03-14",
+    "soc": "nvidia tegra x2 (t186)",
+    "ram": "4/8 gb",
+    "network": ""
+  },
+  {
+    "vendor": "lg",
+    "model": "g6 (eu unlocked)",
+    "code": "h870",
+    "released": "2017-02-27",
+    "soc": "qualcomm msm8996 pro snapdragon 821",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g6 (us unlocked)",
+    "code": "us997",
+    "released": "2017-02-27",
+    "soc": "qualcomm msm8996 pro snapdragon 821",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi note 4",
+    "code": "mido",
+    "released": "2017-01-27",
+    "soc": "qualcomm msm8953 snapdragon 625",
+    "ram": "2/3/4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy a5 (2017)",
+    "code": "a5y17lte",
+    "released": "2017-01-02",
+    "soc": "samsung exynos 7880",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy a7 (2017)",
+    "code": "a7y17lte",
+    "released": "2017-01-02",
+    "soc": "samsung exynos 7880",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lenovo",
+    "model": "p2",
+    "code": "kuntao",
+    "released": "2016-11-27",
+    "soc": "qualcomm msm8953 snapdragon 625",
+    "ram": "3/4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi note 2",
+    "code": "scorpio",
+    "released": "2016-11-27",
+    "soc": "qualcomm msm8996 pro snapdragon 821",
+    "ram": "4/6 gb lpddr4",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel",
+    "code": "sailfish",
+    "released": "2016-10-27",
+    "soc": "qualcomm msm8996 pro snapdragon 821",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel xl",
+    "code": "marlin",
+    "released": "2016-10-27",
+    "soc": "qualcomm msm8996 pro snapdragon 821",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "v20 (at&t)",
+    "code": "h910",
+    "released": "2016-10-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "v20 (global)",
+    "code": "h990",
+    "released": "2016-10-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "v20 (sprint)",
+    "code": "ls997",
+    "released": "2016-10-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "v20 (t-mobile)",
+    "code": "h918",
+    "released": "2016-10-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "v20 (us unlocked)",
+    "code": "us996",
+    "released": "2016-10-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "v20 (verizon)",
+    "code": "vs995",
+    "released": "2016-10-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi 5s",
+    "code": "capricorn",
+    "released": "2016-10-27",
+    "soc": "qualcomm msm8996 pro snapdragon 821",
+    "ram": "3/4 gb lpddr4",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi 5s plus",
+    "code": "natrium",
+    "released": "2016-10-27",
+    "soc": "qualcomm msm8996 pro snapdragon 821",
+    "ram": "4/6 gb lpddr4",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi mix",
+    "code": "lithium",
+    "released": "2016-10-27",
+    "soc": "qualcomm msm8996 pro snapdragon 821",
+    "ram": "4/6 gb lpddr4",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto z",
+    "code": "griffin",
+    "released": "2016-09-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto z play",
+    "code": "addison",
+    "released": "2016-09-27",
+    "soc": "qualcomm msm8953 snapdragon 625",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab 3 7.0 lte",
+    "code": "lt02ltespr",
+    "released": "2016-09-27",
+    "soc": "qualcomm msm8930ab snapdragon 400",
+    "ram": "1.5 gb",
+    "network": "2g cdma/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "zte",
+    "model": "axon 7 mini",
+    "code": "tulip",
+    "released": "2016-09-27",
+    "soc": "qualcomm msm8952 snapdragon 617",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "zte",
+    "model": "at&t trek 2 hd",
+    "code": "jasmine",
+    "released": "2016-08-27",
+    "soc": "qualcomm msm8952 snapdragon 617",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "bq",
+    "model": "aquaris u",
+    "code": "chaozu",
+    "released": "2016-06-27",
+    "soc": "qualcomm msm8937 snapdragon 430",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "bq",
+    "model": "aquaris u plus",
+    "code": "tenshi",
+    "released": "2016-06-27",
+    "soc": "qualcomm msm8937 snapdragon 430",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "bq",
+    "model": "aquaris x5 plus",
+    "code": "gohan",
+    "released": "2016-06-27",
+    "soc": "qualcomm msm8976 snapdragon 652",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g pad x (t-mobile)",
+    "code": "v521",
+    "released": "2016-06-27",
+    "soc": "qualcomm msm8952 snapdragon 617",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 3 / 3t",
+    "code": "oneplus3",
+    "released": "2016-06-27",
+    "soc": "qualcomm msm8996 snapdragon 820 (3) / qualcomm msm8996 pro snapdragon 821 (3t)",
+    "ram": "6 gb lpddr4",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab s2 8.0 wi-fi (2016)",
+    "code": "gts28vewifi",
+    "released": "2016-06-27",
+    "soc": "qualcomm msm8976 snapdragon 652",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab s2 9.7 wi-fi (2016)",
+    "code": "gts210vewifi",
+    "released": "2016-06-27",
+    "soc": "qualcomm msm8976 snapdragon 652",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi 3s/3x",
+    "code": "land",
+    "released": "2016-06-27",
+    "soc": "qualcomm msm8937 snapdragon 430",
+    "ram": "2/3 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "zte",
+    "model": "axon 7",
+    "code": "axon7",
+    "released": "2016-06-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4 gb lpddr4 (standard edition) / 6 gb lpddr4 (exclusive edition)",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "zuk",
+    "model": "z2 plus",
+    "code": "z2_plus",
+    "released": "2016-06-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "3 gb lpddr4 / 4 gb lpddr4",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "asus",
+    "model": "zenfone 3",
+    "code": "zenfone3",
+    "released": "2016-05-30",
+    "soc": "qualcomm msm8953 snapdragon 625",
+    "ram": "2/3/4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "htc",
+    "model": "htc 10",
+    "code": "pme",
+    "released": "2016-05-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g4",
+    "code": "athene",
+    "released": "2016-05-27",
+    "soc": "qualcomm msm8952 snapdragon 617",
+    "ram": "2/3/4 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g4 play",
+    "code": "harpia",
+    "released": "2016-05-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "1/2 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi max",
+    "code": "hydrogen",
+    "released": "2016-05-27",
+    "soc": "qualcomm msm8956 snapdragon 650",
+    "ram": "3 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "leeco",
+    "model": "le 2",
+    "code": "s2",
+    "released": "2016-04-27",
+    "soc": "qualcomm msm8976 snapdragon 652",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "leeco",
+    "model": "le max2",
+    "code": "x2",
+    "released": "2016-04-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4/6 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi 5",
+    "code": "gemini",
+    "released": "2016-04-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "3 gb lpddr4 (standard and pro editions) / 4 gb lpddr4 (exclusive edition)",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s7",
+    "code": "herolte",
+    "released": "2016-03-18",
+    "soc": "samsung exynos 8890",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s7 edge",
+    "code": "hero2lte",
+    "released": "2016-03-18",
+    "soc": "samsung exynos 8890",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g5 (international)",
+    "code": "h850",
+    "released": "2016-02-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g5 (t-mobile)",
+    "code": "h830",
+    "released": "2016-02-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g5 (us unlocked)",
+    "code": "rs988",
+    "released": "2016-02-27",
+    "soc": "qualcomm msm8996 snapdragon 820",
+    "ram": "4 gb",
+    "network": "2g cdma/2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "nextbit",
+    "model": "robin",
+    "code": "ether",
+    "released": "2016-02-27",
+    "soc": "qualcomm msm8992 snapdragon 808",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi note 3",
+    "code": "kenzo",
+    "released": "2016-02-27",
+    "soc": "qualcomm msm8956 snapdragon 650",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "k10",
+    "code": "m216",
+    "released": "2016-01-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "1.5 gb / 2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "oppo",
+    "model": "f1 (international)",
+    "code": "f1f",
+    "released": "2016-01-27",
+    "soc": "qualcomm msm8939 snapdragon 615",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab e 8.0 lte (sprint)",
+    "code": "gtesqltespr",
+    "released": "2016-01-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "1.5 gb",
+    "network": "2g cdma/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi 3/prime",
+    "code": "ido",
+    "released": "2016-01-27",
+    "soc": "qualcomm msm8939v2 snapdragon 616",
+    "ram": "2/3 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy a3 (2016)",
+    "code": "a3xelte",
+    "released": "2015-12-27",
+    "soc": "samsung exynos 7578",
+    "ram": "1.5 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy a5 (2016)",
+    "code": "a5xelte",
+    "released": "2015-12-27",
+    "soc": "samsung exynos 7580",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy a7 (2016)",
+    "code": "a7xelte",
+    "released": "2015-12-27",
+    "soc": "samsung exynos 7580",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "pixel c",
+    "code": "dragon",
+    "released": "2015-12-08",
+    "soc": "nvidia tegra x1",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "huawei",
+    "model": "honor 5x",
+    "code": "kiwi",
+    "released": "2015-11-27",
+    "soc": "qualcomm msm8939v2 snapdragon 616",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g3 turbo",
+    "code": "merlin",
+    "released": "2015-11-27",
+    "soc": "qualcomm msm8939 snapdragon 615",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus x",
+    "code": "onyx",
+    "released": "2015-11-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "oppo",
+    "model": "r7s (international)",
+    "code": "r7sf",
+    "released": "2015-11-27",
+    "soc": "qualcomm msm8939 snapdragon 615",
+    "ram": "4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "wileyfox",
+    "model": "storm",
+    "code": "kipper",
+    "released": "2015-11-27",
+    "soc": "qualcomm msm8939 snapdragon 615",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia z4 tablet lte",
+    "code": "karin",
+    "released": "2015-10-27",
+    "soc": "qualcomm msm8994 snapdragon 810",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia z4 tablet wifi",
+    "code": "karin_windy",
+    "released": "2015-10-27",
+    "soc": "qualcomm msm8994 snapdragon 810",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia z5 compact",
+    "code": "suzuran",
+    "released": "2015-10-27",
+    "soc": "qualcomm msm8994 snapdragon 810",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "wileyfox",
+    "model": "swift",
+    "code": "crackling",
+    "released": "2015-10-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "htc",
+    "model": "one a9",
+    "code": "hiae",
+    "released": "2015-10-20",
+    "soc": "qualcomm msm8952 snapdragon 617",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "zuk",
+    "model": "z1",
+    "code": "ham",
+    "released": "2015-10-14",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "3 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "nexus 5x",
+    "code": "bullhead",
+    "released": "2015-09-29",
+    "soc": "qualcomm msm8992 snapdragon 808",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "nexus 6p",
+    "code": "angler",
+    "released": "2015-09-29",
+    "soc": "qualcomm msm8994 snapdragon 810",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto x pure edition/style (2015)",
+    "code": "clark",
+    "released": "2015-09-27",
+    "soc": "qualcomm msm8992 snapdragon 808",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab s2 9.7 (lte)",
+    "code": "gts210ltexx",
+    "released": "2015-09-27",
+    "soc": "samsung exynos 5433",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab s2 9.7 (wi-fi)",
+    "code": "gts210wifi",
+    "released": "2015-09-27",
+    "soc": "samsung exynos 5433",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia z5",
+    "code": "sumire",
+    "released": "2015-09-27",
+    "soc": "qualcomm msm8994 snapdragon 810",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi 4c",
+    "code": "libra",
+    "released": "2015-09-27",
+    "soc": "qualcomm msm8992 snapdragon 808",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "yu",
+    "model": "yunique",
+    "code": "jalebi",
+    "released": "2015-09-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "1 gb",
+    "network": ""
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus 2",
+    "code": "oneplus2",
+    "released": "2015-08-28",
+    "soc": "qualcomm msm8994 snapdragon 810",
+    "ram": "3/4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "bq",
+    "model": "aquaris m5",
+    "code": "piccolo",
+    "released": "2015-08-27",
+    "soc": "qualcomm msm8939 snapdragon 615",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto x play",
+    "code": "lux",
+    "released": "2015-08-27",
+    "soc": "qualcomm msm8939 snapdragon 615",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 neo",
+    "code": "s5neolte",
+    "released": "2015-08-27",
+    "soc": "samsung exynos 7580",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "ark",
+    "model": "benefit a3",
+    "code": "peach",
+    "released": "2015-07-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "android one 2nd gen",
+    "code": "seed",
+    "released": "2015-07-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "2 gb / 1 gb for iq ii",
+    "network": "2g gsm/2g cdma/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g 2015",
+    "code": "osprey",
+    "released": "2015-07-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "1/2 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab e 9.6 (wifi)",
+    "code": "gtelwifiue",
+    "released": "2015-07-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "1.5 gb",
+    "network": ""
+  },
+  {
+    "vendor": "bq",
+    "model": "aquaris e5 4g / aquaris e5s",
+    "code": "vegetalte",
+    "released": "2015-06-27",
+    "soc": "qualcomm msm8916 snapdragon 410 (e5 4g) / qualcomm msm8916t snapdragon 412 (e5s)",
+    "ram": "1/2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "bq",
+    "model": "aquaris x5",
+    "code": "paella",
+    "released": "2015-06-27",
+    "soc": "qualcomm msm8916t snapdragon 412",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g4 (international)",
+    "code": "h815",
+    "released": "2015-06-27",
+    "soc": "qualcomm msm8992 snapdragon 808",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g4 (t-mobile)",
+    "code": "h811",
+    "released": "2015-06-27",
+    "soc": "qualcomm msm8992 snapdragon 808",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "nubia",
+    "model": "z9 max",
+    "code": "nx512j",
+    "released": "2015-06-27",
+    "soc": "qualcomm msm8939 snapdragon 615",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "oppo",
+    "model": "r5/r5s (international)",
+    "code": "r5",
+    "released": "2015-06-27",
+    "soc": "qualcomm msm8939 snapdragon 615",
+    "ram": "2 gb (r5), 3 gb (r5s)",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy j7 (2015)",
+    "code": "j7elte",
+    "released": "2015-06-27",
+    "soc": "samsung exynos 7580",
+    "ram": "1.5 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia z3+",
+    "code": "ivy",
+    "released": "2015-06-27",
+    "soc": "qualcomm msm8994 snapdragon 810",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "yu",
+    "model": "yureka / yureka plus",
+    "code": "tomato",
+    "released": "2015-06-27",
+    "soc": "qualcomm msm8939 snapdragon 615",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "nvidia",
+    "model": "shield tv (2015 / 2015 pro / 2017 / 2019 pro) / jetson tx1 [android tv]",
+    "code": "foster",
+    "released": "2015-05-28",
+    "soc": "nvidia tegra x1 (t210)",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "nvidia",
+    "model": "shield tv (2015 / 2015 pro / 2017 / 2019 pro) / jetson tx1 [tablet]",
+    "code": "foster_tab",
+    "released": "2015-05-28",
+    "soc": "nvidia tegra x1 (t210)",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "oppo",
+    "model": "r7 plus (international)",
+    "code": "r7plus",
+    "released": "2015-05-27",
+    "soc": "qualcomm msm8939 snapdragon 615",
+    "ram": "3/4 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "yu",
+    "model": "yuphoria",
+    "code": "lettuce",
+    "released": "2015-05-12",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s6",
+    "code": "zerofltexx",
+    "released": "2015-04-27",
+    "soc": "samsung exynos 7420",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s6 edge",
+    "code": "zeroltexx",
+    "released": "2015-04-27",
+    "soc": "exynos 7420",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "htc",
+    "model": "one m9 (gsm)",
+    "code": "himaul",
+    "released": "2015-03-27",
+    "soc": "qualcomm msm8994 snapdragon 810",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "htc",
+    "model": "one m9 (verizon)",
+    "code": "himawl",
+    "released": "2015-03-27",
+    "soc": "qualcomm msm8994 snapdragon 810",
+    "ram": "3 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto e 2015 lte",
+    "code": "surnia",
+    "released": "2015-02-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "1 gb",
+    "network": ""
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto e 2015",
+    "code": "otus",
+    "released": "2015-02-25",
+    "soc": "qualcomm msm8212 snapdragon 200",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g 2014 lte",
+    "code": "thea",
+    "released": "2015-01-27",
+    "soc": "qualcomm msm8926 snapdragon 400",
+    "ram": "1 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "oppo",
+    "model": "n3",
+    "code": "n3",
+    "released": "2015-01-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "wingtech",
+    "model": "redmi 2",
+    "code": "wt88047",
+    "released": "2015-01-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "1/2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 active (g870f)",
+    "code": "klteactivexx",
+    "released": "2014-12-27",
+    "soc": "qualcomm msm8974pro snapdragon 801",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "nexus 9 (lte)",
+    "code": "flounder_lte",
+    "released": "2014-11-03",
+    "soc": "nvidia tegra k1",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "nexus 9 (wi-fi)",
+    "code": "flounder",
+    "released": "2014-11-03",
+    "soc": "nvidia tegra k1",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "google",
+    "model": "nexus 6",
+    "code": "shamu",
+    "released": "2014-10-29",
+    "soc": "qualcomm apq8084 snapdragon 805",
+    "ram": "3 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "nexus player",
+    "code": "fugu",
+    "released": "2014-10-27",
+    "soc": "intel atom x86_64 (moorefield)",
+    "ram": "1 gb",
+    "network": ""
+  },
+  {
+    "vendor": "huawei",
+    "model": "honor 4/4x (unified)",
+    "code": "cherry",
+    "released": "2014-10-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "1/2 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "huawei",
+    "model": "honor 4x (china telecom)",
+    "code": "che10",
+    "released": "2014-10-27",
+    "soc": "qualcomm msm8916 snapdragon 410",
+    "ram": "1/2 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "lenovo",
+    "model": "vibe z2 pro",
+    "code": "kingdom",
+    "released": "2014-09-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto x 2014",
+    "code": "victara",
+    "released": "2014-09-26",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia z3",
+    "code": "z3",
+    "released": "2014-09-04",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia z3 compact",
+    "code": "z3c",
+    "released": "2014-09-04",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g3 beat",
+    "code": "jagnm",
+    "released": "2014-08-27",
+    "soc": "qualcomm msm8926 snapdragon 400",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g3 s",
+    "code": "jag3gds",
+    "released": "2014-08-27",
+    "soc": "qualcomm msm8926 snapdragon 400",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 plus",
+    "code": "kccat6",
+    "released": "2014-08-21",
+    "soc": "qualcomm apq8084 snapdragon 805",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "nvidia",
+    "model": "shield tablet",
+    "code": "shieldtablet",
+    "released": "2014-07-29",
+    "soc": "nvidia tegra k1 (t124)",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g pad 7.0 wifi",
+    "code": "v400",
+    "released": "2014-07-27",
+    "soc": "qualcomm msm8226 snapdragon 400",
+    "ram": "1 gb",
+    "network": ""
+  },
+  {
+    "vendor": "lg",
+    "model": "g pad 8.0 (wi-fi)",
+    "code": "v480",
+    "released": "2014-07-27",
+    "soc": "qualcomm msm8226 snapdragon 400",
+    "ram": "1 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 lte-a",
+    "code": "lentislte",
+    "released": "2014-07-15",
+    "soc": "qualcomm apq8084 snapdragon 805",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "htc",
+    "model": "one (m8) dual sim",
+    "code": "m8d",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974ab snapdragon 801",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g3 (at&t)",
+    "code": "d850",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g3 (canada)",
+    "code": "d852",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g3 (international)",
+    "code": "d855",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g3 (korea)",
+    "code": "f400",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "lg",
+    "model": "g3 (sprint)",
+    "code": "ls990",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "3 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g3 (t-mobile)",
+    "code": "d851",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g3 (verizon)",
+    "code": "vs985",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "3 gb",
+    "network": "2g gsm/2g cdma/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g 2014",
+    "code": "titan",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8226 snapdragon 400",
+    "ram": "1 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g 4g",
+    "code": "peregrine",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8926 snapdragon 400",
+    "ram": "1 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "oppo",
+    "model": "find 7a/s",
+    "code": "find7",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974ab/msm8974ac snapdragon 801",
+    "ram": "2/3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note pro 12.2 wi-fi",
+    "code": "v1awifi",
+    "released": "2014-06-27",
+    "soc": "samsung exynos5420",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 lte (g9006v/8v)",
+    "code": "kltechn",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 lte duos (g9006w/8w)",
+    "code": "kltechnduo",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 lte duos (g900fd/md)",
+    "code": "klteduos",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab pro 10.1",
+    "code": "n2awifi",
+    "released": "2014-06-27",
+    "soc": "samsung exynos5420",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab s 10.5 lte",
+    "code": "chagalllte",
+    "released": "2014-06-27",
+    "soc": "samsung exynos5420",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab s 10.5 wi-fi",
+    "code": "chagallwifi",
+    "released": "2014-06-27",
+    "soc": "samsung exynos5420",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab s 8.4 wi-fi",
+    "code": "klimtwifi",
+    "released": "2014-06-27",
+    "soc": "samsung exynos5420",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "mi 3 / mi 4",
+    "code": "cancro",
+    "released": "2014-06-27",
+    "soc": "qualcomm msm8974 snapdragon 800 (mi 3) / qualcomm msm8974ac snapdragon 801 (mi 4)",
+    "ram": "2 gb (mi 3) / 3 gb (mi 4)",
+    "network": "2g gsm/2g cdma/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 sport",
+    "code": "kltesprsports",
+    "released": "2014-06-23",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "oneplus one",
+    "code": "bacon",
+    "released": "2014-06-06",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g pad 7.0 (lte)",
+    "code": "v410",
+    "released": "2014-05-27",
+    "soc": "qualcomm msm8226 snapdragon 400",
+    "ram": "1 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 lte (sc-04f/scl23)",
+    "code": "kltekdi",
+    "released": "2014-05-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "redmi 1s",
+    "code": "armani",
+    "released": "2014-05-27",
+    "soc": "qualcomm msm8226 snapdragon 400",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto e",
+    "code": "condor",
+    "released": "2014-05-13",
+    "soc": "qualcomm msm8212 snapdragon 200",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "lg",
+    "model": "g2 mini",
+    "code": "g2m",
+    "released": "2014-04-27",
+    "soc": "qualcomm msm8226 snapdragon 400",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "optimus l70",
+    "code": "w5",
+    "released": "2014-04-27",
+    "soc": "qualcomm msm8210 snapdragon 200",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s4 value edition (gt-i9515/l)",
+    "code": "jfvelte",
+    "released": "2014-04-27",
+    "soc": "qualcomm snapdragon 600",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 lte (g900i/p)",
+    "code": "kltedv",
+    "released": "2014-04-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 lte (g900k/l/s)",
+    "code": "kltekor",
+    "released": "2014-04-27",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia z2",
+    "code": "sirius",
+    "released": "2014-04-27",
+    "soc": "qualcomm msm8974ab snapdragon 801",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s iii neo (dual sim)",
+    "code": "s3ve3gds",
+    "released": "2014-04-11",
+    "soc": "qualcomm msm8226 snapdragon 400",
+    "ram": "1.5 gb",
+    "network": "2g gsm/2g cdma/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s iii neo (samsung camera)",
+    "code": "s3ve3gjv",
+    "released": "2014-04-11",
+    "soc": "qualcomm msm8226 snapdragon 400",
+    "ram": "1.5 gb",
+    "network": "2g gsm/2g cdma/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s iii neo (sony camera)",
+    "code": "s3ve3gxx",
+    "released": "2014-04-11",
+    "soc": "qualcomm msm8226 snapdragon 400",
+    "ram": "1.5 gb",
+    "network": "2g gsm/2g cdma/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 lte (g900az/s902l)",
+    "code": "klteaio",
+    "released": "2014-04-11",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 lte (g900f/m/r4/r7/t/v/w8)",
+    "code": "klte",
+    "released": "2014-04-11",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "htc",
+    "model": "one (m8)",
+    "code": "m8",
+    "released": "2014-03-27",
+    "soc": "qualcomm msm8974ab snapdragon 801",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s5 (international 3g)",
+    "code": "k3gxx",
+    "released": "2014-03-27",
+    "soc": "samsung exynos5422",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia tablet z2 lte",
+    "code": "castor",
+    "released": "2014-03-26",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia tablet z2 wi-fi",
+    "code": "castor_windy",
+    "released": "2014-03-26",
+    "soc": "qualcomm msm8974ac snapdragon 801",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "lg",
+    "model": "l90",
+    "code": "w7",
+    "released": "2014-02-27",
+    "soc": "qualcomm msm8226 snapdragon 400",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "huawei",
+    "model": "ascend mate 2 4g",
+    "code": "mt2",
+    "released": "2014-01-27",
+    "soc": "qualcomm msm 8928",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab pro 8.4",
+    "code": "mondrianwifi",
+    "released": "2014-01-27",
+    "soc": "qualcomm msm8974 snapdragon 800",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto g",
+    "code": "falcon",
+    "released": "2013-11-27",
+    "soc": "qualcomm msm8226 snapdragon 400",
+    "ram": "1 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy grand 2 duos",
+    "code": "ms013g",
+    "released": "2013-11-25",
+    "soc": "qualcomm msm8226 snapdragon 400",
+    "ram": "1.5 gb",
+    "network": "2g cdma/2g gsm/3g umts"
+  },
+  {
+    "vendor": "google",
+    "model": "nexus 5",
+    "code": "hammerhead",
+    "released": "2013-10-31",
+    "soc": "qualcomm msm8974 snapdragon 800",
+    "ram": "2 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "htc",
+    "model": "one max (gsm)",
+    "code": "t6",
+    "released": "2013-10-27",
+    "soc": "qualcomm apq8064t snapdragon 600",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "htc",
+    "model": "one max (verizon)",
+    "code": "t6vzw",
+    "released": "2013-10-27",
+    "soc": "qualcomm apq8064t snapdragon 600",
+    "ram": "2 gb",
+    "network": "2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note 10.1 2014 (lte)",
+    "code": "lt03lte",
+    "released": "2013-10-27",
+    "soc": "qualcomm msm8974 snapdragon 800",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s4 lte-a (gt-i9506)",
+    "code": "ks01lte",
+    "released": "2013-10-27",
+    "soc": "qualcomm msm8974 snapdragon 800",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g pad 8.3",
+    "code": "v500",
+    "released": "2013-10-14",
+    "soc": "qualcomm apq8064t snapdragon 600",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note 3 (international 3g)",
+    "code": "ha3g",
+    "released": "2013-09-27",
+    "soc": "samsung exynos5420",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note 3 lte (n9005/p)",
+    "code": "hlte",
+    "released": "2013-09-27",
+    "soc": "qualcomm msm8974ab snapdragon 800",
+    "ram": "3 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note 3 lte (n9008v)",
+    "code": "hltechn",
+    "released": "2013-09-27",
+    "soc": "qualcomm msm8974ab snapdragon 800",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note 3 lte (n900k/l/s)",
+    "code": "hltekor",
+    "released": "2013-09-27",
+    "soc": "qualcomm msm8974ab snapdragon 800",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note 3 lte (n900t/v/w8)",
+    "code": "hltetmo",
+    "released": "2013-09-27",
+    "soc": "qualcomm msm8974ab snapdragon 800",
+    "ram": "3 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g2 (at&t)",
+    "code": "d800",
+    "released": "2013-09-12",
+    "soc": "qualcomm msm8974 snapdragon 800",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g2 (canadian)",
+    "code": "d803",
+    "released": "2013-09-12",
+    "soc": "qualcomm msm8974 snapdragon 800",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g2 (international)",
+    "code": "d802",
+    "released": "2013-09-12",
+    "soc": "qualcomm msm8974 snapdragon 800",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "lg",
+    "model": "g2 (t-mobile)",
+    "code": "d801",
+    "released": "2013-09-12",
+    "soc": "qualcomm msm8974 snapdragon 800",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "nexus 7 (lte, 2013 version)",
+    "code": "deb",
+    "released": "2013-09-09",
+    "soc": "qualcomm msm8960t snapdragon s4 pro",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "moto x",
+    "code": "ghost",
+    "released": "2013-08-23",
+    "soc": "qualcomm msm8960dt snapdragon s4",
+    "ram": "2 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "nvidia",
+    "model": "shield portable",
+    "code": "roth",
+    "released": "2013-07-31",
+    "soc": "nvidia tegra 4 (t114)",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s4 mini (international 3g)",
+    "code": "serrano3gxx",
+    "released": "2013-07-27",
+    "soc": "qualcomm msm8930ab snapdragon 400",
+    "ram": "1.5 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s4 mini (international dual sim)",
+    "code": "serranodsdd",
+    "released": "2013-07-27",
+    "soc": "qualcomm msm8930ab snapdragon 400",
+    "ram": "1.5 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s4 mini (international lte)",
+    "code": "serranoltexx",
+    "released": "2013-07-27",
+    "soc": "qualcomm msm8930ab snapdragon 400",
+    "ram": "1.5 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "nexus 7 (wi-fi, 2013 version)",
+    "code": "flo",
+    "released": "2013-07-26",
+    "soc": "qualcomm msm8960t snapdragon s4 pro",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "google",
+    "model": "nexus 7 2013 (wi-fi, repartitioned)",
+    "code": "flox",
+    "released": "2013-07-26",
+    "soc": "qualcomm msm8960t snapdragon s4 pro",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note 10.1 wi-fi (2014)",
+    "code": "n1awifi",
+    "released": "2013-06-27",
+    "soc": "samsung exynos5420",
+    "ram": "3 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s4 active",
+    "code": "jactivelte",
+    "released": "2013-06-27",
+    "soc": "qualcomm snapdragon 600 (apq8064t)",
+    "ram": "2 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia m",
+    "code": "nicki",
+    "released": "2013-06-27",
+    "soc": "qualcomm msm8227 snapdragon s4 plus",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia zr",
+    "code": "dogo",
+    "released": "2013-06-27",
+    "soc": "qualcomm apq8064 snapdragon s4 pro",
+    "ram": "2 gb lpddr2",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia l",
+    "code": "taoshan",
+    "released": "2013-05-27",
+    "soc": "qualcomm msm8230 snapdragon 400",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note 8.0 (gsm)",
+    "code": "n5100",
+    "released": "2013-04-27",
+    "soc": "samsung exynos 4412",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note 8.0 (lte)",
+    "code": "n5120",
+    "released": "2013-04-27",
+    "soc": "samsung exynos 4412",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note 8.0 (wi-fi)",
+    "code": "n5110",
+    "released": "2013-04-27",
+    "soc": "samsung exynos 4412",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s4 (gt-i9505, sgh-i337m, sgh-m919)",
+    "code": "jfltexx",
+    "released": "2013-04-27",
+    "soc": "qualcomm snapdragon 600",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s4 (sch-i545)",
+    "code": "jfltevzw",
+    "released": "2013-04-27",
+    "soc": "qualcomm snapdragon 600 (apq8064t)",
+    "ram": "2 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s4 (sch-r970, sph-l720)",
+    "code": "jfltespr",
+    "released": "2013-04-27",
+    "soc": "qualcomm snapdragon 600 (apq8064t)",
+    "ram": "2 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s4 (sgh-i337)",
+    "code": "jflteatt",
+    "released": "2013-04-27",
+    "soc": "qualcomm snapdragon 600 (apq8064t)",
+    "ram": "2 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia sp",
+    "code": "huashan",
+    "released": "2013-04-27",
+    "soc": "qualcomm msm8960t snapdragon s4 pro",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "htc",
+    "model": "one (gsm)",
+    "code": "m7",
+    "released": "2013-03-27",
+    "soc": "qualcomm apq8064t snapdragon 600",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "htc",
+    "model": "one (verizon)",
+    "code": "m7vzw",
+    "released": "2013-03-27",
+    "soc": "qualcomm apq8064t snapdragon 600",
+    "ram": "2 gb",
+    "network": "2g cdma/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia zl",
+    "code": "odin",
+    "released": "2013-03-27",
+    "soc": "qualcomm apq8064 snapdragon s4 pro",
+    "ram": "2 gb lpddr2",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia tablet z lte",
+    "code": "pollux",
+    "released": "2013-02-27",
+    "soc": "qualcomm apq8064 snapdragon s4 pro",
+    "ram": "2 gb lpddr2",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia tablet z wi-fi",
+    "code": "pollux_windy",
+    "released": "2013-02-27",
+    "soc": "qualcomm apq8064 snapdragon s4 pro",
+    "ram": "2 gb lpddr2",
+    "network": ""
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia z",
+    "code": "yuga",
+    "released": "2013-02-27",
+    "soc": "qualcomm apq8064 snapdragon s4 pro",
+    "ram": "2 gb lpddr2",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "nexus 10",
+    "code": "manta",
+    "released": "2012-11-13",
+    "soc": "samsung exynos 5",
+    "ram": "2 gb",
+    "network": ""
+  },
+  {
+    "vendor": "google",
+    "model": "nexus 4",
+    "code": "mako",
+    "released": "2012-11-13",
+    "soc": "qualcomm apq8064 snapdragon s4 pro",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s iii (lte / international)",
+    "code": "i9305",
+    "released": "2012-10-27",
+    "soc": "samsung exynos 4412",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy note 2 (lte)",
+    "code": "t0lte",
+    "released": "2012-09-27",
+    "soc": "samsung exynos 4412",
+    "ram": "2 gb",
+    "network": "2g gsm/2g cdma/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia t",
+    "code": "mint",
+    "released": "2012-09-27",
+    "soc": "qualcomm msm8260a snapdragon s4",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia v",
+    "code": "tsubasa",
+    "released": "2012-09-27",
+    "soc": "qualcomm msm8960 snapdragon s4",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "sony",
+    "model": "xperia tx",
+    "code": "hayabusa",
+    "released": "2012-08-27",
+    "soc": "qualcomm msm8260a snapdragon s4",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "motorola",
+    "model": "photon q 4g lte",
+    "code": "xt897",
+    "released": "2012-08-19",
+    "soc": "qualcomm msm8960 snapdragon s4 plus",
+    "ram": "1 gb",
+    "network": "2g cdma/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s iii (at&t)",
+    "code": "d2att",
+    "released": "2012-06-28",
+    "soc": "qualcomm msm8960 snapdragon s4 plus",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s iii (sprint)",
+    "code": "d2spr",
+    "released": "2012-06-28",
+    "soc": "qualcomm msm8960 snapdragon s4 plus",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s iii (verizon)",
+    "code": "d2vzw",
+    "released": "2012-06-28",
+    "soc": "qualcomm msm8960 snapdragon s4 plus",
+    "ram": "2 gb",
+    "network": "2g cdma/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s iii (t-mobile)",
+    "code": "d2tmo",
+    "released": "2012-06-21",
+    "soc": "qualcomm msm8960 snapdragon s4 plus",
+    "ram": "2 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s iii (international)",
+    "code": "i9300",
+    "released": "2012-05-27",
+    "soc": "samsung exynos 4412",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab 2 7.0 / tab 2 10.1 (wi-fi / wi-fi + ir)",
+    "code": "espressowifi",
+    "released": "2012-05-27",
+    "soc": "ti omap4430",
+    "ram": "1 gb",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy tab 2 7.0 / tab 2 10.1 (gsm)",
+    "code": "espresso3g",
+    "released": "2012-04-27",
+    "soc": "ti omap4430",
+    "ram": "1 gb",
+    "network": "2g gsm"
+  },
+  {
+    "vendor": "motorola",
+    "model": "droid 4",
+    "code": "maserati",
+    "released": "2012-02-10",
+    "soc": "ti omap4430",
+    "ram": "1 gb",
+    "network": "2g cdma/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "galaxy nexus lte (sprint)",
+    "code": "toroplus",
+    "released": "2012-01-27",
+    "soc": "ti omap4460",
+    "ram": "1 gb",
+    "network": "2g cdma/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "google",
+    "model": "galaxy nexus lte (verizon)",
+    "code": "toro",
+    "released": "2011-12-15",
+    "soc": "ti omap4460",
+    "ram": "1 gb",
+    "network": "2g cdma/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "droid razr/razr maxx (cdma)",
+    "code": "spyder",
+    "released": "2011-11-11",
+    "soc": "ti omap4430",
+    "ram": "1 gb",
+    "network": "2g gsm/2g cdma/3g umts/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "motorola",
+    "model": "razr/razr maxx (gsm)",
+    "code": "umts_spyder",
+    "released": "2011-11-11",
+    "soc": "ti omap4430",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "google",
+    "model": "galaxy nexus gsm",
+    "code": "maguro",
+    "released": "2011-10-27",
+    "soc": "ti omap4460",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  },
+  {
+    "vendor": "motorola",
+    "model": "droid bionic",
+    "code": "targa",
+    "released": "2011-09-08",
+    "soc": "ti omap4430",
+    "ram": "1 gb",
+    "network": "2g cdma/3g cdma2000/4g lte"
+  },
+  {
+    "vendor": "samsung",
+    "model": "galaxy s ii",
+    "code": "i9100",
+    "released": "2011-02-11",
+    "soc": "samsung exynos 4210",
+    "ram": "1 gb",
+    "network": "2g gsm/3g umts"
+  }
+]
