@@ -2,26 +2,19 @@
   {
     "vendor": "google",
     "model": "Pixel 5a",
+    "discontinued": false,
     "code": "barbet",
-    "released": "2021-08-28",
+    "released": "2021-08-01",
     "soc": "Qualcomm SM7250 Snapdragon 765G",
     "ram": "6 GB",
     "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE/5G"
   },
   {
-    "vendor": "xiaomi",
-    "model": "POCO F3 / Redmi K40 / Mi 11X",
-    "code": "alioth",
-    "released": "2021-06-28",
-    "soc": "Qualcomm SM8250-AC Snapdragon 870",
-    "ram": "6/8/12 GB",
-    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE/5G"
-  },
-  {
     "vendor": "asus",
     "model": "ZenFone 8",
+    "discontinued": false,
     "code": "sake",
-    "released": "2021-05-28",
+    "released": "2021-05-01",
     "soc": "Qualcomm SM8350 Snapdragon 888",
     "ram": "6/8/12/16 GB LPDDR5",
     "network": "2G GSM/3G UMTS/4G LTE/5G"
@@ -29,8 +22,9 @@
   {
     "vendor": "oneplus",
     "model": "OnePlus 9",
+    "discontinued": false,
     "code": "lemonade",
-    "released": "2021-03-28",
+    "released": "2021-03-01",
     "soc": "Qualcomm SM8350 Snapdragon 888",
     "ram": "8/12 GB LPDDR5",
     "network": "2G GSM/3G UMTS/4G LTE/5G"
@@ -38,8 +32,9 @@
   {
     "vendor": "oneplus",
     "model": "OnePlus 9 Pro",
+    "discontinued": false,
     "code": "lemonadep",
-    "released": "2021-03-28",
+    "released": "2021-03-01",
     "soc": "Qualcomm SM8350 Snapdragon 888",
     "ram": "8/12GB GB LPDDR5",
     "network": "2G GSM/3G UMTS/4G LTE/5G"
@@ -47,8 +42,9 @@
   {
     "vendor": "xiaomi",
     "model": "POCO X3 Pro",
+    "discontinued": false,
     "code": "vayu",
-    "released": "2021-03-28",
+    "released": "2021-03-01",
     "soc": "Qualcomm SM8150-AC Snapdragon 860",
     "ram": "6/8 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -56,17 +52,29 @@
   {
     "vendor": "motorola",
     "model": "Edge S / Moto G100",
+    "discontinued": false,
     "code": "nio",
-    "released": "2021-02-28",
+    "released": "2021-02-01",
     "soc": "Qualcomm SM8250-AC Snapdragon 870",
     "ram": "6/8 GB LPDDR5",
     "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE/5G"
   },
   {
+    "vendor": "xiaomi",
+    "model": "POCO F3 / Redmi K40 / Mi 11X",
+    "discontinued": false,
+    "code": "alioth",
+    "released": "2021-01-01",
+    "soc": "Qualcomm SM8250-AC Snapdragon 870",
+    "ram": "6/8/12 GB",
+    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE/5G"
+  },
+  {
     "vendor": "google",
     "model": "Pixel 4a 5G",
+    "discontinued": false,
     "code": "bramble",
-    "released": "2020-10-28",
+    "released": "2020-10-01",
     "soc": "Qualcomm SM7250 Snapdragon 765G",
     "ram": "6 GB",
     "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE/5G"
@@ -74,8 +82,9 @@
   {
     "vendor": "google",
     "model": "Pixel 5",
+    "discontinued": false,
     "code": "redfin",
-    "released": "2020-10-28",
+    "released": "2020-10-01",
     "soc": "Qualcomm SM7250 Snapdragon 765G",
     "ram": "8 GB",
     "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE/5G"
@@ -83,8 +92,9 @@
   {
     "vendor": "oneplus",
     "model": "OnePlus 8T",
+    "discontinued": false,
     "code": "kebab",
-    "released": "2020-10-28",
+    "released": "2020-10-01",
     "soc": "Qualcomm SM8250 Snapdragon 865",
     "ram": "8/12GB GB LPDDR4X",
     "network": "2G GSM/3G UMTS/4G LTE/5G"
@@ -92,6 +102,7 @@
   {
     "vendor": "xiaomi",
     "model": "POCO X3 NFC",
+    "discontinued": false,
     "code": "surya",
     "released": "2020-09-08",
     "soc": "Qualcomm SM7150-AC Snapdragon 732G",
@@ -101,8 +112,9 @@
   {
     "vendor": "asus",
     "model": "ROG Phone 3",
+    "discontinued": false,
     "code": "obiwan",
-    "released": "2020-08-28",
+    "released": "2020-08-01",
     "soc": "Qualcomm SM8250 Snapdragon 865+",
     "ram": "8/12/16 GB",
     "network": "2G GSM/3G UMTS/4G LTE/5G"
@@ -110,8 +122,9 @@
   {
     "vendor": "google",
     "model": "Pixel 4a",
+    "discontinued": false,
     "code": "sunfish",
-    "released": "2020-08-28",
+    "released": "2020-08-01",
     "soc": "Qualcomm SDM730 Snapdragon 730G",
     "ram": "6 GB",
     "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
@@ -119,6 +132,7 @@
   {
     "vendor": "oneplus",
     "model": "OnePlus Nord",
+    "discontinued": true,
     "code": "avicii",
     "released": "2020-07-21",
     "soc": "Qualcomm SM7250 Snapdragon 765G",
@@ -128,53 +142,19 @@
   {
     "vendor": "shift",
     "model": "SHIFT6mq",
+    "discontinued": false,
     "code": "axolotl",
-    "released": "2020-06-28",
+    "released": "2020-06-01",
     "soc": "Qualcomm SDM845 Snapdragon 845",
     "ram": "8 GB LPDDR4X",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "xiaomi",
-    "model": "Mi 10T / Mi 10T Pro / Redmi K30S Ultra",
-    "code": "apollon",
-    "released": "2020-06-28",
-    "soc": "Qualcomm SM8250 Snapdragon 865",
-    "ram": "6/8 GB",
-    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE/5G"
-  },
-  {
-    "vendor": "xiaomi",
-    "model": "Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G",
-    "code": "gauguin",
-    "released": "2020-06-28",
-    "soc": "Qualcomm SM7225 Snapdragon 750G 5G",
-    "ram": "6/8 GB",
-    "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE/5G"
-  },
-  {
-    "vendor": "xiaomi",
-    "model": "POCO F2 Pro / Redmi K30 Pro / Redmi K30 Pro Zoom Edition",
-    "code": "lmi",
-    "released": "2020-06-28",
-    "soc": "Qualcomm SM8250 Snapdragon 865",
-    "ram": "6/8/12 GB",
-    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE/5G"
-  },
-  {
-    "vendor": "xiaomi",
-    "model": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max",
-    "code": "miatoll",
-    "released": "2020-06-28",
-    "soc": "Qualcomm SM7125 Snapdragon 720G",
-    "ram": "4/6/8 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "motorola",
     "model": "Edge",
+    "discontinued": false,
     "code": "racer",
-    "released": "2020-05-28",
+    "released": "2020-05-01",
     "soc": "Qualcomm SM7250 Snapdragon 765G",
     "ram": "6 GB LPDDR4X",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE/5G"
@@ -182,8 +162,9 @@
   {
     "vendor": "motorola",
     "model": "Moto G 5G / Motorola One 5G Ace",
+    "discontinued": false,
     "code": "kiev",
-    "released": "2020-05-28",
+    "released": "2020-05-01",
     "soc": "Qualcomm SM7225 Snapdragon 750G",
     "ram": "4/6 GB LPDDR4X",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE/5G"
@@ -191,8 +172,9 @@
   {
     "vendor": "motorola",
     "model": "Moto G 5G Plus / Motorola One 5G",
+    "discontinued": false,
     "code": "nairo",
-    "released": "2020-05-28",
+    "released": "2020-05-01",
     "soc": "Qualcomm SM7250 Snapdragon 765G",
     "ram": "4/6/8 GB LPDDR4X",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE/5G"
@@ -200,33 +182,17 @@
   {
     "vendor": "xiaomi",
     "model": "Mi 10 Lite 5G",
+    "discontinued": false,
     "code": "monet",
-    "released": "2020-05-28",
+    "released": "2020-05-01",
     "soc": "Qualcomm SM7250 Snapdragon 765G",
     "ram": "6/8 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE/5G"
   },
   {
-    "vendor": "oneplus",
-    "model": "OnePlus 8",
-    "code": "instantnoodle",
-    "released": "2020-04-28",
-    "soc": "Qualcomm SM8250 Snapdragon 865",
-    "ram": "8/12GB GB LPDDR4X",
-    "network": "2G GSM/3G UMTS/4G LTE/5G"
-  },
-  {
-    "vendor": "oneplus",
-    "model": "OnePlus 8 Pro",
-    "code": "instantnoodlep",
-    "released": "2020-04-28",
-    "soc": "Qualcomm SM8250 Snapdragon 865",
-    "ram": "8/12GB GB LPDDR5",
-    "network": "2G GSM/3G UMTS/4G LTE/5G"
-  },
-  {
     "vendor": "samsung",
     "model": "Galaxy Tab S6 Lite (LTE)",
+    "discontinued": false,
     "code": "gta4xl",
     "released": "2020-04-02",
     "soc": "Samsung Exynos 9611",
@@ -236,6 +202,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Tab S6 Lite (Wi-Fi)",
+    "discontinued": false,
     "code": "gta4xlwifi",
     "released": "2020-04-02",
     "soc": "Samsung Exynos 9611",
@@ -243,8 +210,69 @@
     "network": ""
   },
   {
+    "vendor": "oneplus",
+    "model": "OnePlus 8",
+    "discontinued": false,
+    "code": "instantnoodle",
+    "released": "2020-04-01",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "ram": "8/12GB GB LPDDR4X",
+    "network": "2G GSM/3G UMTS/4G LTE/5G"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "OnePlus 8 Pro",
+    "discontinued": false,
+    "code": "instantnoodlep",
+    "released": "2020-04-01",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "ram": "8/12GB GB LPDDR5",
+    "network": "2G GSM/3G UMTS/4G LTE/5G"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "Mi 10T / Mi 10T Pro / Redmi K30S Ultra",
+    "discontinued": false,
+    "code": "apollon",
+    "released": "2020-01-01",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "ram": "6/8 GB",
+    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE/5G"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "Mi 10T Lite / Mi 10i / Redmi Note 9 Pro 5G",
+    "discontinued": false,
+    "code": "gauguin",
+    "released": "2020-01-01",
+    "soc": "Qualcomm SM7225 Snapdragon 750G 5G",
+    "ram": "6/8 GB",
+    "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE/5G"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "POCO F2 Pro / Redmi K30 Pro / Redmi K30 Pro Zoom Edition",
+    "discontinued": false,
+    "code": "lmi",
+    "released": "2020-01-01",
+    "soc": "Qualcomm SM8250 Snapdragon 865",
+    "ram": "6/8/12 GB",
+    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE/5G"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max",
+    "discontinued": false,
+    "code": "miatoll",
+    "released": "2020-01-01",
+    "soc": "Qualcomm SM7125 Snapdragon 720G",
+    "ram": "4/6/8 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "motorola",
     "model": "Moto One Action",
+    "discontinued": false,
     "code": "troika",
     "released": "2019-10-31",
     "soc": "Exynos 9609",
@@ -252,17 +280,9 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "f-x-tec",
-    "model": "Pro\u00b9",
-    "code": "pro1",
-    "released": "2019-10-28",
-    "soc": "Qualcomm MSM8998 Snapdragon 835",
-    "ram": "6 GB",
-    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "nvidia",
     "model": "Shield TV 2019 Pro [Android TV]",
+    "discontinued": true,
     "code": "mdarcy",
     "released": "2019-10-28",
     "soc": "Nvidia Tegra X1+ (T210b01)",
@@ -272,6 +292,7 @@
   {
     "vendor": "nvidia",
     "model": "Shield TV 2019 Pro [Tablet]",
+    "discontinued": true,
     "code": "mdarcy_tab",
     "released": "2019-10-28",
     "soc": "Nvidia Tegra X1+ (T210b01)",
@@ -279,55 +300,21 @@
     "network": ""
   },
   {
+    "vendor": "f-x-tec",
+    "model": "Pro\u00b9",
+    "discontinued": false,
+    "code": "pro1",
+    "released": "2019-10-01",
+    "soc": "Qualcomm MSM8998 Snapdragon 835",
+    "ram": "6 GB",
+    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "oneplus",
     "model": "OnePlus 7T Pro",
+    "discontinued": false,
     "code": "hotdog",
-    "released": "2019-10-28",
-    "soc": "Qualcomm SM8150 Snapdragon 855+",
-    "ram": "8/12GB GB LPDDR4X",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "asus",
-    "model": "ROG Phone 2 (ZS660KL)",
-    "code": "I001D",
-    "released": "2019-09-28",
-    "soc": "Qualcomm SM8150-AC Snapdragon 855 Plus",
-    "ram": "8/12 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "fairphone",
-    "model": "Fairphone 3",
-    "code": "FP3",
-    "released": "2019-09-28",
-    "soc": "Qualcomm SDM632 Snapdragon 632",
-    "ram": "4 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "google",
-    "model": "Pixel 4",
-    "code": "flame",
-    "released": "2019-09-28",
-    "soc": "Qualcomm SM8150 Snapdragon 855",
-    "ram": "6 GB",
-    "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
-  },
-  {
-    "vendor": "google",
-    "model": "Pixel 4 XL",
-    "code": "coral",
-    "released": "2019-09-28",
-    "soc": "Qualcomm SM8150 Snapdragon 855",
-    "ram": "6 GB",
-    "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
-  },
-  {
-    "vendor": "oneplus",
-    "model": "OnePlus 7T",
-    "code": "hotdogb",
-    "released": "2019-09-28",
+    "released": "2019-10-01",
     "soc": "Qualcomm SM8150 Snapdragon 855+",
     "ram": "8/12GB GB LPDDR4X",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -335,6 +322,7 @@
   {
     "vendor": "lenovo",
     "model": "Z6 Pro",
+    "discontinued": false,
     "code": "zippo",
     "released": "2019-09-11",
     "soc": "Qualcomm SM8150 Snapdragon 855",
@@ -342,8 +330,59 @@
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
   },
   {
+    "vendor": "asus",
+    "model": "ROG Phone 2 (ZS660KL)",
+    "discontinued": true,
+    "code": "I001D",
+    "released": "2019-09-01",
+    "soc": "Qualcomm SM8150-AC Snapdragon 855 Plus",
+    "ram": "8/12 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "fairphone",
+    "model": "Fairphone 3",
+    "discontinued": false,
+    "code": "FP3",
+    "released": "2019-09-01",
+    "soc": "Qualcomm SDM632 Snapdragon 632",
+    "ram": "4 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "google",
+    "model": "Pixel 4",
+    "discontinued": false,
+    "code": "flame",
+    "released": "2019-09-01",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "ram": "6 GB",
+    "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
+  },
+  {
+    "vendor": "google",
+    "model": "Pixel 4 XL",
+    "discontinued": false,
+    "code": "coral",
+    "released": "2019-09-01",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "ram": "6 GB",
+    "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "OnePlus 7T",
+    "discontinued": false,
+    "code": "hotdogb",
+    "released": "2019-09-01",
+    "soc": "Qualcomm SM8150 Snapdragon 855+",
+    "ram": "8/12GB GB LPDDR4X",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "samsung",
     "model": "Galaxy Note10",
+    "discontinued": false,
     "code": "d1",
     "released": "2019-08-23",
     "soc": "Samsung Exynos 9825",
@@ -353,6 +392,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Note10+",
+    "discontinued": false,
     "code": "d2s",
     "released": "2019-08-23",
     "soc": "Samsung Exynos 9825",
@@ -362,6 +402,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Note10+ 5G",
+    "discontinued": false,
     "code": "d2x",
     "released": "2019-08-23",
     "soc": "Samsung Exynos 9825",
@@ -369,44 +410,9 @@
     "network": "2G GSM/3G UMTS/4G LTE/5G"
   },
   {
-    "vendor": "nubia",
-    "model": "Mini 5G",
-    "code": "TP1803",
-    "released": "2019-06-28",
-    "soc": "Qualcomm SM8150 Snapdragon 855",
-    "ram": "6 GB",
-    "network": "2G GSM/3G UMTS/4G LTE/5G"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy Tab S5e (LTE)",
-    "code": "gts4lv",
-    "released": "2019-06-28",
-    "soc": "Qualcomm SDM670 Snapdragon 670",
-    "ram": "4/6 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy Tab S5e (Wi-Fi)",
-    "code": "gts4lvwifi",
-    "released": "2019-06-28",
-    "soc": "Qualcomm SDM670 Snapdragon 670",
-    "ram": "4/6 GB",
-    "network": ""
-  },
-  {
-    "vendor": "xiaomi",
-    "model": "Redmi Note 8 / 8T",
-    "code": "ginkgo",
-    "released": "2019-06-28",
-    "soc": "Qualcomm SDM665 Snapdragon 665",
-    "ram": "3/4/6 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "xiaomi",
     "model": "Redmi K20 / Mi 9T",
+    "discontinued": true,
     "code": "davinci",
     "released": "2019-06-06",
     "soc": "Qualcomm SM7150-AA Snapdragon 730",
@@ -414,26 +420,9 @@
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
   },
   {
-    "vendor": "oneplus",
-    "model": "OnePlus 7",
-    "code": "guacamoleb",
-    "released": "2019-05-28",
-    "soc": "Qualcomm SM8150 Snapdragon 855",
-    "ram": "6/8 GB LPDDR4X",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "oneplus",
-    "model": "OnePlus 7 Pro",
-    "code": "guacamole",
-    "released": "2019-05-28",
-    "soc": "Qualcomm SM8150 Snapdragon 855",
-    "ram": "6/8/12GB GB LPDDR4X",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "asus",
     "model": "Zenfone 6 (ZS630KL)",
+    "discontinued": true,
     "code": "I01WD",
     "released": "2019-05-16",
     "soc": "Qualcomm sm8150 Snapdragon 855",
@@ -443,6 +432,7 @@
   {
     "vendor": "motorola",
     "model": "Moto One Vision/Motorola P50",
+    "discontinued": false,
     "code": "kane",
     "released": "2019-05-15",
     "soc": "Exynos 9609",
@@ -450,8 +440,29 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "oneplus",
+    "model": "OnePlus 7",
+    "discontinued": false,
+    "code": "guacamoleb",
+    "released": "2019-05-01",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "ram": "6/8 GB LPDDR4X",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "oneplus",
+    "model": "OnePlus 7 Pro",
+    "discontinued": false,
+    "code": "guacamole",
+    "released": "2019-05-01",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "ram": "6/8/12GB GB LPDDR4X",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "realme",
     "model": "Realme 3 Pro",
+    "discontinued": true,
     "code": "RMX1851",
     "released": "2019-04-29",
     "soc": "Qualcomm SDM710 Snapdragon 710",
@@ -461,8 +472,9 @@
   {
     "vendor": "google",
     "model": "Pixel 3a",
+    "discontinued": false,
     "code": "sargo",
-    "released": "2019-04-28",
+    "released": "2019-04-01",
     "soc": "Qualcomm SDM670 Snapdragon 670",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
@@ -470,33 +482,17 @@
   {
     "vendor": "google",
     "model": "Pixel 3a XL",
+    "discontinued": false,
     "code": "bonito",
-    "released": "2019-04-28",
+    "released": "2019-04-01",
     "soc": "Qualcomm SDM670 Snapdragon 670",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
   },
   {
-    "vendor": "motorola",
-    "model": "Moto G7 Play",
-    "code": "channel",
-    "released": "2019-03-28",
-    "soc": "Qualcomm SDM632 Snapdragon 632",
-    "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "xiaomi",
-    "model": "Redmi 7",
-    "code": "onclite",
-    "released": "2019-03-28",
-    "soc": "Qualcomm SDM632 Snapdragon 632",
-    "ram": "2/3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "nvidia",
     "model": "Jetson (Nano / Nano 2GB) [Android TV]",
+    "discontinued": false,
     "code": "porg",
     "released": "2019-03-18",
     "soc": "Nvidia Tegra X1 (T210)",
@@ -506,6 +502,7 @@
   {
     "vendor": "nvidia",
     "model": "Jetson (Nano / Nano 2GB) [Tablet]",
+    "discontinued": false,
     "code": "porg_tab",
     "released": "2019-03-18",
     "soc": "Nvidia Tegra X1 (T210)",
@@ -515,6 +512,7 @@
   {
     "vendor": "xiaomi",
     "model": "Redmi Note 7 Pro",
+    "discontinued": true,
     "code": "violet",
     "released": "2019-03-13",
     "soc": "Qualcomm sm6150 Snapdragon 675",
@@ -524,6 +522,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S10",
+    "discontinued": false,
     "code": "beyond1lte",
     "released": "2019-03-08",
     "soc": "Samsung Exynos 9820",
@@ -533,6 +532,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S10 5G",
+    "discontinued": false,
     "code": "beyondx",
     "released": "2019-03-08",
     "soc": "Samsung Exynos 9820",
@@ -542,6 +542,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S10+",
+    "discontinued": false,
     "code": "beyond2lte",
     "released": "2019-03-08",
     "soc": "Samsung Exynos 9820",
@@ -551,6 +552,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S10e",
+    "discontinued": false,
     "code": "beyond0lte",
     "released": "2019-03-08",
     "soc": "Samsung Exynos 9820",
@@ -559,9 +561,30 @@
   },
   {
     "vendor": "motorola",
+    "model": "Moto G7 Play",
+    "discontinued": false,
+    "code": "channel",
+    "released": "2019-03-01",
+    "soc": "Qualcomm SDM632 Snapdragon 632",
+    "ram": "2 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "Redmi 7",
+    "discontinued": false,
+    "code": "onclite",
+    "released": "2019-03-01",
+    "soc": "Qualcomm SDM632 Snapdragon 632",
+    "ram": "2/3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "motorola",
     "model": "Moto G7",
+    "discontinued": false,
     "code": "river",
-    "released": "2019-02-28",
+    "released": "2019-02-01",
     "soc": "Qualcomm SDM632 Snapdragon 632",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -569,8 +592,9 @@
   {
     "vendor": "motorola",
     "model": "Moto G7 Plus",
+    "discontinued": false,
     "code": "lake",
-    "released": "2019-02-28",
+    "released": "2019-02-01",
     "soc": "Qualcomm SDM636 Snapdragon 636",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -578,8 +602,9 @@
   {
     "vendor": "motorola",
     "model": "Moto G7 Power",
+    "discontinued": false,
     "code": "ocean",
-    "released": "2019-02-28",
+    "released": "2019-02-01",
     "soc": "Qualcomm SDM632 Snapdragon 632",
     "ram": "3 GB, 4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -587,8 +612,9 @@
   {
     "vendor": "sony",
     "model": "Xperia 10",
+    "discontinued": false,
     "code": "kirin",
-    "released": "2019-02-28",
+    "released": "2019-02-01",
     "soc": "Qualcomm SDM630 Snapdragon 630",
     "ram": "3/4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -596,8 +622,9 @@
   {
     "vendor": "sony",
     "model": "Xperia 10 Plus",
+    "discontinued": false,
     "code": "mermaid",
-    "released": "2019-02-28",
+    "released": "2019-02-01",
     "soc": "Qualcomm SDM636 Snapdragon 636",
     "ram": "4/6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -605,6 +632,7 @@
   {
     "vendor": "lenovo",
     "model": "Z5 Pro GT",
+    "discontinued": false,
     "code": "heart",
     "released": "2019-01-29",
     "soc": "Qualcomm SM8150 Snapdragon 855",
@@ -614,6 +642,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy M20",
+    "discontinued": false,
     "code": "m20lte",
     "released": "2019-01-28",
     "soc": "Samsung Exynos 7904",
@@ -621,19 +650,61 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "nubia",
+    "model": "Mini 5G",
+    "discontinued": false,
+    "code": "TP1803",
+    "released": "2019-01-01",
+    "soc": "Qualcomm SM8150 Snapdragon 855",
+    "ram": "6 GB",
+    "network": "2G GSM/3G UMTS/4G LTE/5G"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy Tab S5e (LTE)",
+    "discontinued": false,
+    "code": "gts4lv",
+    "released": "2019-01-01",
+    "soc": "Qualcomm SDM670 Snapdragon 670",
+    "ram": "4/6 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy Tab S5e (Wi-Fi)",
+    "discontinued": false,
+    "code": "gts4lvwifi",
+    "released": "2019-01-01",
+    "soc": "Qualcomm SDM670 Snapdragon 670",
+    "ram": "4/6 GB",
+    "network": ""
+  },
+  {
     "vendor": "xiaomi",
     "model": "Redmi Note 7",
+    "discontinued": false,
     "code": "lavender",
-    "released": "2019-01-28",
+    "released": "2019-01-01",
     "soc": "Qualcomm SDM660 Snapdragon 660",
+    "ram": "3/4/6 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "Redmi Note 8 / 8T",
+    "discontinued": false,
+    "code": "ginkgo",
+    "released": "2019-01-01",
+    "soc": "Qualcomm SDM665 Snapdragon 665",
     "ram": "3/4/6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
     "vendor": "asus",
     "model": "Zenfone Max M1",
+    "discontinued": false,
     "code": "X00P",
-    "released": "2018-12-28",
+    "released": "2018-12-01",
     "soc": "Qualcomm MSM8937 Snapdragon 430",
     "ram": "2/3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -641,8 +712,9 @@
   {
     "vendor": "asus",
     "model": "Zenfone Max M2",
+    "discontinued": false,
     "code": "X01AD",
-    "released": "2018-12-28",
+    "released": "2018-12-01",
     "soc": "Qualcomm SDM632 Snapdragon 632",
     "ram": "3/4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -650,8 +722,9 @@
   {
     "vendor": "asus",
     "model": "Zenfone Max Pro M2",
+    "discontinued": false,
     "code": "X01BD",
-    "released": "2018-12-28",
+    "released": "2018-12-01",
     "soc": "Qualcomm SDM660 Snapdragon 660",
     "ram": "3/4/6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -659,8 +732,9 @@
   {
     "vendor": "yandex",
     "model": "Phone",
+    "discontinued": true,
     "code": "Amber",
-    "released": "2018-12-28",
+    "released": "2018-12-01",
     "soc": "Qualcomm SDM630 Snapdragon 630",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -668,60 +742,17 @@
   {
     "vendor": "oneplus",
     "model": "OnePlus 6T",
+    "discontinued": false,
     "code": "fajita",
-    "released": "2018-11-28",
+    "released": "2018-11-01",
     "soc": "Qualcomm SDM845 Snapdragon 845",
     "ram": "6/8 GB LPDDR4X",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "google",
-    "model": "Pixel 3",
-    "code": "blueline",
-    "released": "2018-10-28",
-    "soc": "Qualcomm SDM845 Snapdragon 845",
-    "ram": "4 GB",
-    "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
-  },
-  {
-    "vendor": "google",
-    "model": "Pixel 3 XL",
-    "code": "crosshatch",
-    "released": "2018-10-28",
-    "soc": "Qualcomm SDM845 Snapdragon 845",
-    "ram": "4 GB",
-    "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
-  },
-  {
-    "vendor": "razer",
-    "model": "Phone 2",
-    "code": "aura",
-    "released": "2018-10-28",
-    "soc": "Qualcomm SDM845 Snapdragon 845",
-    "ram": "8 GB LPDDR4X",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "sony",
-    "model": "Xperia XZ3",
-    "code": "akatsuki",
-    "released": "2018-10-28",
-    "soc": "Qualcomm SDM845 Snapdragon 845",
-    "ram": "4 or 6 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "xiaomi",
-    "model": "Redmi Note 6 Pro",
-    "code": "twolip",
-    "released": "2018-10-28",
-    "soc": "Qualcomm SDM660 Snapdragon 636",
-    "ram": "3/4/6 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "realme",
     "model": "Realme 2 Pro",
+    "discontinued": true,
     "code": "RMX1801",
     "released": "2018-10-11",
     "soc": "Qualcomm SDM660 Snapdragon 660",
@@ -731,6 +762,7 @@
   {
     "vendor": "motorola",
     "model": "Moto One Power",
+    "discontinued": false,
     "code": "chef",
     "released": "2018-10-10",
     "soc": "Qualcomm SDM636 Snapdragon 636",
@@ -738,10 +770,61 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "google",
+    "model": "Pixel 3",
+    "discontinued": false,
+    "code": "blueline",
+    "released": "2018-10-01",
+    "soc": "Qualcomm SDM845 Snapdragon 845",
+    "ram": "4 GB",
+    "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
+  },
+  {
+    "vendor": "google",
+    "model": "Pixel 3 XL",
+    "discontinued": false,
+    "code": "crosshatch",
+    "released": "2018-10-01",
+    "soc": "Qualcomm SDM845 Snapdragon 845",
+    "ram": "4 GB",
+    "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
+  },
+  {
+    "vendor": "razer",
+    "model": "Phone 2",
+    "discontinued": false,
+    "code": "aura",
+    "released": "2018-10-01",
+    "soc": "Qualcomm SDM845 Snapdragon 845",
+    "ram": "8 GB LPDDR4X",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "sony",
+    "model": "Xperia XZ3",
+    "discontinued": false,
+    "code": "akatsuki",
+    "released": "2018-10-01",
+    "soc": "Qualcomm SDM845 Snapdragon 845",
+    "ram": "4 or 6 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "Redmi Note 6 Pro",
+    "discontinued": false,
+    "code": "twolip",
+    "released": "2018-10-01",
+    "soc": "Qualcomm SDM660 Snapdragon 636",
+    "ram": "3/4/6 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "xiaomi",
     "model": "Mi 8 Lite",
+    "discontinued": false,
     "code": "platina",
-    "released": "2018-09-28",
+    "released": "2018-09-01",
     "soc": "Qualcomm SDM660 Snapdragon 660",
     "ram": "4 GB / 6 GB (LPDDR4X)",
     "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
@@ -749,6 +832,7 @@
   {
     "vendor": "nokia",
     "model": "Nokia 6.1 Plus",
+    "discontinued": false,
     "code": "DRG",
     "released": "2018-08-30",
     "soc": "Qualcomm SDM660 Snapdragon 636",
@@ -756,17 +840,9 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "xiaomi",
-    "model": "Poco F1",
-    "code": "beryllium",
-    "released": "2018-08-28",
-    "soc": "Qualcomm SDM845 Snapdragon 845",
-    "ram": "6/8 GB LPDDR4X",
-    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "samsung",
     "model": "Galaxy Note 9",
+    "discontinued": true,
     "code": "crownlte",
     "released": "2018-08-09",
     "soc": "Samsung Exynos 9810",
@@ -774,10 +850,21 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "xiaomi",
+    "model": "Poco F1",
+    "discontinued": false,
+    "code": "beryllium",
+    "released": "2018-08-01",
+    "soc": "Qualcomm SDM845 Snapdragon 845",
+    "ram": "6/8 GB LPDDR4X",
+    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "sony",
     "model": "Xperia XA2 Plus",
+    "discontinued": false,
     "code": "voyager",
-    "released": "2018-07-28",
+    "released": "2018-07-01",
     "soc": "Qualcomm SDM630 Snapdragon 630",
     "ram": "4/6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -785,8 +872,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi 8",
+    "discontinued": false,
     "code": "dipper",
-    "released": "2018-07-28",
+    "released": "2018-07-01",
     "soc": "Qualcomm SDM845 Snapdragon 845",
     "ram": "6/8 GB LPDDR4X",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -794,8 +882,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi A2",
+    "discontinued": false,
     "code": "jasmine_sprout",
-    "released": "2018-07-28",
+    "released": "2018-07-01",
     "soc": "Qualcomm SDM660 Snapdragon 660",
     "ram": "4/6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -803,8 +892,9 @@
   {
     "vendor": "asus",
     "model": "Zenfone 5Z (ZS620KL)",
+    "discontinued": false,
     "code": "Z01R",
-    "released": "2018-06-28",
+    "released": "2018-06-01",
     "soc": "Qualcomm SDM845 Snapdragon 845",
     "ram": "4/6/8 GB LPDDR4X",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -812,26 +902,19 @@
   {
     "vendor": "motorola",
     "model": "Moto Z3 Play",
+    "discontinued": false,
     "code": "beckham",
-    "released": "2018-06-28",
+    "released": "2018-06-01",
     "soc": "Qualcomm SDM636 Snapdragon 636",
     "ram": "4 GB, 6 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
   },
   {
-    "vendor": "nokia",
-    "model": "Nokia 6.1 (2018)",
-    "code": "PL2",
-    "released": "2018-06-28",
-    "soc": "Qualcomm SDM660 Snapdragon 630",
-    "ram": "3/4 GB LPDDR4X",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "asus",
     "model": "Zenfone Max Pro M1",
+    "discontinued": false,
     "code": "X00TD",
-    "released": "2018-05-28",
+    "released": "2018-05-01",
     "soc": "Qualcomm SDM636 Snapdragon 636",
     "ram": "3/4/6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -839,8 +922,9 @@
   {
     "vendor": "bq",
     "model": "Aquaris X2",
+    "discontinued": true,
     "code": "zangya",
-    "released": "2018-05-28",
+    "released": "2018-05-01",
     "soc": "Qualcomm SDM660 Snapdragon 636",
     "ram": "3/4 GB LPDDR3",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -848,8 +932,9 @@
   {
     "vendor": "bq",
     "model": "Aquaris X2 Pro",
+    "discontinued": true,
     "code": "zangyapro",
-    "released": "2018-05-28",
+    "released": "2018-05-01",
     "soc": "Qualcomm SDM660 Snapdragon 660",
     "ram": "4/6 GB LPDDR3",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -857,8 +942,9 @@
   {
     "vendor": "motorola",
     "model": "Moto E5 Plus (XT1924-1/2/4/5)",
+    "discontinued": false,
     "code": "rhannah",
-    "released": "2018-05-28",
+    "released": "2018-05-01",
     "soc": "Qualcomm MSM8917 Snapdragon 425",
     "ram": "2/3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -866,8 +952,9 @@
   {
     "vendor": "motorola",
     "model": "Moto E5 Plus (XT1924-3/9)",
+    "discontinued": false,
     "code": "ahannah",
-    "released": "2018-05-28",
+    "released": "2018-05-01",
     "soc": "Qualcomm MSM8937 Snapdragon 430",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -875,8 +962,9 @@
   {
     "vendor": "motorola",
     "model": "Moto E5 Plus (XT1924-6/7/8)",
+    "discontinued": false,
     "code": "hannah",
-    "released": "2018-05-28",
+    "released": "2018-05-01",
     "soc": "Qualcomm MSM8940 Snapdragon 435",
     "ram": "3 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -884,8 +972,9 @@
   {
     "vendor": "motorola",
     "model": "Moto G6 Plus",
+    "discontinued": false,
     "code": "evert",
-    "released": "2018-05-28",
+    "released": "2018-05-01",
     "soc": "Qualcomm SDM630 Snapdragon 630",
     "ram": "4/6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -893,8 +982,9 @@
   {
     "vendor": "huawei",
     "model": "P20 Pro",
+    "discontinued": true,
     "code": "charlotte",
-    "released": "2018-04-28",
+    "released": "2018-04-01",
     "soc": "HiSilicon Kirin 970",
     "ram": "6/8 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -902,8 +992,9 @@
   {
     "vendor": "oneplus",
     "model": "OnePlus 6",
+    "discontinued": false,
     "code": "enchilada",
-    "released": "2018-04-28",
+    "released": "2018-04-01",
     "soc": "Qualcomm SDM845 Snapdragon 845",
     "ram": "6/8 GB LPDDR4X",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -911,8 +1002,9 @@
   {
     "vendor": "sony",
     "model": "Xperia XZ2",
+    "discontinued": false,
     "code": "akari",
-    "released": "2018-04-28",
+    "released": "2018-04-01",
     "soc": "Qualcomm SDM845 Snapdragon 845",
     "ram": "4 or 6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -920,8 +1012,9 @@
   {
     "vendor": "sony",
     "model": "Xperia XZ2 Compact",
+    "discontinued": false,
     "code": "xz2c",
-    "released": "2018-04-28",
+    "released": "2018-04-01",
     "soc": "Qualcomm SDM845 Snapdragon 845",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -929,8 +1022,9 @@
   {
     "vendor": "sony",
     "model": "Xperia XZ2 Premium",
+    "discontinued": false,
     "code": "aurora",
-    "released": "2018-04-28",
+    "released": "2018-04-01",
     "soc": "Qualcomm SDM845 Snapdragon 845",
     "ram": "6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -938,8 +1032,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi 6X",
+    "discontinued": false,
     "code": "wayne",
-    "released": "2018-04-28",
+    "released": "2018-04-01",
     "soc": "Qualcomm SDM660 Snapdragon 660",
     "ram": "4/6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -947,24 +1042,17 @@
   {
     "vendor": "xiaomi",
     "model": "Mi MIX 2S",
+    "discontinued": false,
     "code": "polaris",
-    "released": "2018-04-28",
+    "released": "2018-04-01",
     "soc": "Qualcomm SDM845 Snapdragon 845",
     "ram": "6/8 GB LPDDR4X",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
   },
   {
-    "vendor": "huawei",
-    "model": "P20 Lite",
-    "code": "anne",
-    "released": "2018-03-28",
-    "soc": "HiSilicon Kirin 659",
-    "ram": "4 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "samsung",
     "model": "Galaxy S9",
+    "discontinued": true,
     "code": "starlte",
     "released": "2018-03-11",
     "soc": "Samsung Exynos 9810",
@@ -974,6 +1062,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S9+",
+    "discontinued": true,
     "code": "star2lte",
     "released": "2018-03-11",
     "soc": "Samsung Exynos 9810",
@@ -981,10 +1070,21 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "huawei",
+    "model": "P20 Lite",
+    "discontinued": true,
+    "code": "anne",
+    "released": "2018-03-01",
+    "soc": "HiSilicon Kirin 659",
+    "ram": "4 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "sony",
     "model": "Xperia XA2",
+    "discontinued": false,
     "code": "pioneer",
-    "released": "2018-02-28",
+    "released": "2018-02-01",
     "soc": "Qualcomm SDM630 Snapdragon 630",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -992,8 +1092,9 @@
   {
     "vendor": "sony",
     "model": "Xperia XA2 Ultra",
+    "discontinued": false,
     "code": "discovery",
-    "released": "2018-02-28",
+    "released": "2018-02-01",
     "soc": "Qualcomm SDM630 Snapdragon 630",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1001,8 +1102,9 @@
   {
     "vendor": "xiaomi",
     "model": "Redmi Note 5 Pro",
+    "discontinued": false,
     "code": "whyred",
-    "released": "2018-02-28",
+    "released": "2018-02-01",
     "soc": "Qualcomm SDM636 Snapdragon 636",
     "ram": "3 GB / 4 GB / 6 GB (LPDDR4X)",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1010,17 +1112,29 @@
   {
     "vendor": "huawei",
     "model": "Honor View 10",
+    "discontinued": true,
     "code": "berkeley",
-    "released": "2018-01-28",
+    "released": "2018-01-01",
     "soc": "HiSilicon Kirin 970",
     "ram": "4/6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "nokia",
+    "model": "Nokia 6.1 (2018)",
+    "discontinued": false,
+    "code": "PL2",
+    "released": "2018-01-01",
+    "soc": "Qualcomm SDM660 Snapdragon 630",
+    "ram": "3/4 GB LPDDR4X",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "huawei",
     "model": "P Smart",
+    "discontinued": true,
     "code": "figo",
-    "released": "2017-12-28",
+    "released": "2017-12-01",
     "soc": "HiSilicon Kirin 659",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1028,8 +1142,9 @@
   {
     "vendor": "oneplus",
     "model": "OnePlus 5T",
+    "discontinued": false,
     "code": "dumpling",
-    "released": "2017-11-28",
+    "released": "2017-11-01",
     "soc": "Qualcomm MSM8998 Snapdragon 835",
     "ram": "6/8 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1037,8 +1152,9 @@
   {
     "vendor": "razer",
     "model": "Phone",
+    "discontinued": false,
     "code": "cheryl",
-    "released": "2017-11-28",
+    "released": "2017-11-01",
     "soc": "Qualcomm MSM8998 Snapdragon 835",
     "ram": "8 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1046,8 +1162,9 @@
   {
     "vendor": "google",
     "model": "Pixel 2",
+    "discontinued": false,
     "code": "walleye",
-    "released": "2017-10-28",
+    "released": "2017-10-01",
     "soc": "Qualcomm SDM835 Snapdragon 835",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
@@ -1055,8 +1172,9 @@
   {
     "vendor": "google",
     "model": "Pixel 2 XL",
+    "discontinued": false,
     "code": "taimen",
-    "released": "2017-10-28",
+    "released": "2017-10-01",
     "soc": "Qualcomm SDM835 Snapdragon 835",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
@@ -1064,8 +1182,9 @@
   {
     "vendor": "motorola",
     "model": "Moto X4",
+    "discontinued": false,
     "code": "payton",
-    "released": "2017-10-28",
+    "released": "2017-10-01",
     "soc": "Qualcomm SDM630 Snapdragon 630",
     "ram": "3/4/6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1073,8 +1192,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi A1",
+    "discontinued": false,
     "code": "tissot",
-    "released": "2017-10-28",
+    "released": "2017-10-01",
     "soc": "Qualcomm MSM8953 Snapdragon 625",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1082,8 +1202,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi MIX 2",
+    "discontinued": false,
     "code": "chiron",
-    "released": "2017-09-28",
+    "released": "2017-09-01",
     "soc": "Qualcomm MSM8998 Snapdragon 835",
     "ram": "6/8 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
@@ -1091,8 +1212,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi Note 3",
+    "discontinued": false,
     "code": "jason",
-    "released": "2017-09-28",
+    "released": "2017-09-01",
     "soc": "Qualcomm SDM660 Snapdragon 660",
     "ram": "4/6 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1100,8 +1222,9 @@
   {
     "vendor": "essential",
     "model": "PH-1",
+    "discontinued": false,
     "code": "mata",
-    "released": "2017-08-28",
+    "released": "2017-08-01",
     "soc": "Qualcomm MSM8998 Snapdragon 835",
     "ram": "4 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1109,8 +1232,9 @@
   {
     "vendor": "motorola",
     "model": "Moto G5S",
+    "discontinued": false,
     "code": "montana",
-    "released": "2017-08-28",
+    "released": "2017-08-01",
     "soc": "Qualcomm MSM8937 Snapdragon 430",
     "ram": "2/3/4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1118,8 +1242,9 @@
   {
     "vendor": "motorola",
     "model": "Moto Z2 Force",
+    "discontinued": false,
     "code": "nash",
-    "released": "2017-07-28",
+    "released": "2017-07-01",
     "soc": "Qualcomm MSM8998 Snapdragon 835",
     "ram": "4 GB, 6 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1127,8 +1252,9 @@
   {
     "vendor": "bq",
     "model": "Aquaris X",
+    "discontinued": false,
     "code": "bardock",
-    "released": "2017-06-28",
+    "released": "2017-06-01",
     "soc": "Qualcomm MSM8953 Pro Snapdragon 626",
     "ram": "3/4 GB LPDDR3",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1136,26 +1262,19 @@
   {
     "vendor": "bq",
     "model": "Aquaris X Pro",
+    "discontinued": false,
     "code": "bardockpro",
-    "released": "2017-06-28",
+    "released": "2017-06-01",
     "soc": "Qualcomm MSM8953 Pro Snapdragon 626",
     "ram": "3/4 GB LPDDR3",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "leeco",
-    "model": "Le Pro3 / Le Pro3 Elite",
-    "code": "zl1",
-    "released": "2017-06-28",
-    "soc": "Qualcomm MSM8996 Snapdragon 820 (Le Pro3 Elite) / Qualcomm MSM8996 Pro Snapdragon 821 (Le Pro3)",
-    "ram": "4/6 GB",
-    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "motorola",
     "model": "Moto Z2 Play",
+    "discontinued": false,
     "code": "albus",
-    "released": "2017-06-28",
+    "released": "2017-06-01",
     "soc": "Qualcomm MSM8953-Pro Snapdragon 626",
     "ram": "4 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1163,8 +1282,9 @@
   {
     "vendor": "nubia",
     "model": "Z17",
+    "discontinued": true,
     "code": "nx563j",
-    "released": "2017-06-28",
+    "released": "2017-06-01",
     "soc": "Qualcomm MSM8998 Snapdragon 835",
     "ram": "6/8 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1172,8 +1292,9 @@
   {
     "vendor": "oneplus",
     "model": "OnePlus 5",
+    "discontinued": false,
     "code": "cheeseburger",
-    "released": "2017-06-28",
+    "released": "2017-06-01",
     "soc": "Qualcomm MSM8998 Snapdragon 835",
     "ram": "6/8 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1181,8 +1302,9 @@
   {
     "vendor": "xiaomi",
     "model": "Redmi 4(X)",
+    "discontinued": true,
     "code": "santoni",
-    "released": "2017-05-28",
+    "released": "2017-05-01",
     "soc": "Qualcomm MSM8940 Snapdragon 435",
     "ram": "2/3/4 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1190,24 +1312,17 @@
   {
     "vendor": "xiaomi",
     "model": "Mi 6",
+    "discontinued": false,
     "code": "sagit",
-    "released": "2017-04-28",
+    "released": "2017-04-01",
     "soc": "Qualcomm MSM8998 Snapdragon 835",
     "ram": "4/6 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "motorola",
-    "model": "Moto G5",
-    "code": "cedric",
-    "released": "2017-03-28",
-    "soc": "Qualcomm MSM8937 Snapdragon 430",
-    "ram": "2/3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "nvidia",
     "model": "Jetson (TX2 / TX2 NX) [Android TV]",
+    "discontinued": true,
     "code": "quill",
     "released": "2017-03-14",
     "soc": "Nvidia Tegra X2 (T186)",
@@ -1217,6 +1332,7 @@
   {
     "vendor": "nvidia",
     "model": "Jetson (TX2 / TX2 NX) [Tablet]",
+    "discontinued": true,
     "code": "quill_tab",
     "released": "2017-03-14",
     "soc": "Nvidia Tegra X2 (T186)",
@@ -1224,10 +1340,21 @@
     "network": ""
   },
   {
+    "vendor": "motorola",
+    "model": "Moto G5",
+    "discontinued": false,
+    "code": "cedric",
+    "released": "2017-03-01",
+    "soc": "Qualcomm MSM8937 Snapdragon 430",
+    "ram": "2/3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "lg",
     "model": "G6 (EU Unlocked)",
+    "discontinued": true,
     "code": "h870",
-    "released": "2017-02-28",
+    "released": "2017-02-01",
     "soc": "Qualcomm MSM8996 Pro Snapdragon 821",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1235,24 +1362,17 @@
   {
     "vendor": "lg",
     "model": "G6 (US Unlocked)",
+    "discontinued": true,
     "code": "us997",
-    "released": "2017-02-28",
+    "released": "2017-02-01",
     "soc": "Qualcomm MSM8996 Pro Snapdragon 821",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "xiaomi",
-    "model": "Redmi Note 4",
-    "code": "mido",
-    "released": "2017-01-28",
-    "soc": "Qualcomm MSM8953 Snapdragon 625",
-    "ram": "2/3/4 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "samsung",
     "model": "Galaxy A5 (2017)",
+    "discontinued": false,
     "code": "a5y17lte",
     "released": "2017-01-02",
     "soc": "Samsung Exynos 7880",
@@ -1262,6 +1382,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy A7 (2017)",
+    "discontinued": false,
     "code": "a7y17lte",
     "released": "2017-01-02",
     "soc": "Samsung Exynos 7880",
@@ -1269,10 +1390,31 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "leeco",
+    "model": "Le Pro3 / Le Pro3 Elite",
+    "discontinued": false,
+    "code": "zl1",
+    "released": "2017-01-01",
+    "soc": "Qualcomm MSM8996 Snapdragon 820 (Le Pro3 Elite) / Qualcomm MSM8996 Pro Snapdragon 821 (Le Pro3)",
+    "ram": "4/6 GB",
+    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "Redmi Note 4",
+    "discontinued": true,
+    "code": "mido",
+    "released": "2017-01-01",
+    "soc": "Qualcomm MSM8953 Snapdragon 625",
+    "ram": "2/3/4 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "lenovo",
     "model": "Yoga Tab 3 Plus LTE",
+    "discontinued": false,
     "code": "YTX703L",
-    "released": "2016-12-28",
+    "released": "2016-12-01",
     "soc": "Qualcomm MSM8976 Snapdragon 652",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1280,8 +1422,9 @@
   {
     "vendor": "lenovo",
     "model": "Yoga Tab 3 Plus Wi-Fi",
+    "discontinued": false,
     "code": "YTX703F",
-    "released": "2016-12-28",
+    "released": "2016-12-01",
     "soc": "Qualcomm APQ8076 Snapdragon 652",
     "ram": "3 GB",
     "network": ""
@@ -1289,8 +1432,9 @@
   {
     "vendor": "lenovo",
     "model": "P2",
+    "discontinued": false,
     "code": "kuntao",
-    "released": "2016-11-28",
+    "released": "2016-11-01",
     "soc": "Qualcomm MSM8953 Snapdragon 625",
     "ram": "3/4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1298,8 +1442,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi Note 2",
+    "discontinued": false,
     "code": "scorpio",
-    "released": "2016-11-28",
+    "released": "2016-11-01",
     "soc": "Qualcomm MSM8996 Pro Snapdragon 821",
     "ram": "4/6 GB LPDDR4",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1307,8 +1452,9 @@
   {
     "vendor": "google",
     "model": "Pixel",
+    "discontinued": false,
     "code": "sailfish",
-    "released": "2016-10-28",
+    "released": "2016-10-01",
     "soc": "Qualcomm MSM8996 Pro Snapdragon 821",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1316,8 +1462,9 @@
   {
     "vendor": "google",
     "model": "Pixel XL",
+    "discontinued": false,
     "code": "marlin",
-    "released": "2016-10-28",
+    "released": "2016-10-01",
     "soc": "Qualcomm MSM8996 Pro Snapdragon 821",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1325,8 +1472,9 @@
   {
     "vendor": "lg",
     "model": "V20 (AT&T)",
+    "discontinued": false,
     "code": "h910",
-    "released": "2016-10-28",
+    "released": "2016-10-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1334,8 +1482,9 @@
   {
     "vendor": "lg",
     "model": "V20 (Global)",
+    "discontinued": false,
     "code": "h990",
-    "released": "2016-10-28",
+    "released": "2016-10-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1343,8 +1492,9 @@
   {
     "vendor": "lg",
     "model": "V20 (Sprint)",
+    "discontinued": false,
     "code": "ls997",
-    "released": "2016-10-28",
+    "released": "2016-10-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1352,8 +1502,9 @@
   {
     "vendor": "lg",
     "model": "V20 (T-Mobile)",
+    "discontinued": false,
     "code": "h918",
-    "released": "2016-10-28",
+    "released": "2016-10-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1361,8 +1512,9 @@
   {
     "vendor": "lg",
     "model": "V20 (US Unlocked)",
+    "discontinued": false,
     "code": "us996",
-    "released": "2016-10-28",
+    "released": "2016-10-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1370,8 +1522,9 @@
   {
     "vendor": "lg",
     "model": "V20 (Verizon)",
+    "discontinued": false,
     "code": "vs995",
-    "released": "2016-10-28",
+    "released": "2016-10-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1379,8 +1532,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi 5s",
+    "discontinued": true,
     "code": "capricorn",
-    "released": "2016-10-28",
+    "released": "2016-10-01",
     "soc": "Qualcomm MSM8996 Pro Snapdragon 821",
     "ram": "3/4 GB LPDDR4",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1388,8 +1542,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi 5s Plus",
+    "discontinued": false,
     "code": "natrium",
-    "released": "2016-10-28",
+    "released": "2016-10-01",
     "soc": "Qualcomm MSM8996 Pro Snapdragon 821",
     "ram": "4/6 GB LPDDR4",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1397,8 +1552,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi MIX",
+    "discontinued": false,
     "code": "lithium",
-    "released": "2016-10-28",
+    "released": "2016-10-01",
     "soc": "Qualcomm MSM8996 Pro Snapdragon 821",
     "ram": "4/6 GB LPDDR4",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1406,8 +1562,9 @@
   {
     "vendor": "motorola",
     "model": "Moto Z",
+    "discontinued": true,
     "code": "griffin",
-    "released": "2016-09-28",
+    "released": "2016-09-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1415,8 +1572,9 @@
   {
     "vendor": "motorola",
     "model": "Moto Z Play",
+    "discontinued": false,
     "code": "addison",
-    "released": "2016-09-28",
+    "released": "2016-09-01",
     "soc": "Qualcomm MSM8953 Snapdragon 625",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1424,8 +1582,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Tab 3 7.0 LTE",
+    "discontinued": true,
     "code": "lt02ltespr",
-    "released": "2016-09-28",
+    "released": "2016-09-01",
     "soc": "Qualcomm MSM8930AB Snapdragon 400",
     "ram": "1.5 GB",
     "network": "2G CDMA/3G CDMA2000/4G LTE"
@@ -1433,8 +1592,9 @@
   {
     "vendor": "zte",
     "model": "Axon 7 Mini",
+    "discontinued": true,
     "code": "tulip",
-    "released": "2016-09-28",
+    "released": "2016-09-01",
     "soc": "Qualcomm MSM8952 Snapdragon 617",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1442,80 +1602,29 @@
   {
     "vendor": "zte",
     "model": "AT&T Trek 2 HD",
+    "discontinued": true,
     "code": "jasmine",
-    "released": "2016-08-28",
+    "released": "2016-08-01",
     "soc": "Qualcomm MSM8952 Snapdragon 617",
     "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "bq",
-    "model": "Aquaris U",
-    "code": "chaozu",
-    "released": "2016-06-28",
-    "soc": "Qualcomm MSM8937 Snapdragon 430",
-    "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "bq",
-    "model": "Aquaris U Plus",
-    "code": "tenshi",
-    "released": "2016-06-28",
-    "soc": "Qualcomm MSM8937 Snapdragon 430",
-    "ram": "2/3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "bq",
-    "model": "Aquaris X5 Plus",
-    "code": "gohan",
-    "released": "2016-06-28",
-    "soc": "Qualcomm MSM8976 Snapdragon 652",
-    "ram": "2/3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
     "vendor": "lg",
     "model": "G Pad X (T-Mobile)",
+    "discontinued": true,
     "code": "v521",
-    "released": "2016-06-28",
+    "released": "2016-06-01",
     "soc": "Qualcomm MSM8952 Snapdragon 617",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "oneplus",
-    "model": "OnePlus 3 / 3T",
-    "code": "oneplus3",
-    "released": "2016-06-28",
-    "soc": "Qualcomm MSM8996 Snapdragon 820 (3) / Qualcomm MSM8996 Pro Snapdragon 821 (3T)",
-    "ram": "6 GB LPDDR4",
-    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy Tab S2 8.0 Wi-Fi (2016)",
-    "code": "gts28vewifi",
-    "released": "2016-06-28",
-    "soc": "Qualcomm MSM8976 Snapdragon 652",
-    "ram": "3 GB",
-    "network": ""
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy Tab S2 9.7 Wi-Fi (2016)",
-    "code": "gts210vewifi",
-    "released": "2016-06-28",
-    "soc": "Qualcomm MSM8976 Snapdragon 652",
-    "ram": "3 GB",
-    "network": ""
-  },
-  {
     "vendor": "xiaomi",
     "model": "Redmi 3S/3X",
+    "discontinued": true,
     "code": "land",
-    "released": "2016-06-28",
+    "released": "2016-06-01",
     "soc": "Qualcomm MSM8937 Snapdragon 430",
     "ram": "2/3 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1523,8 +1632,9 @@
   {
     "vendor": "zte",
     "model": "Axon 7",
+    "discontinued": true,
     "code": "axon7",
-    "released": "2016-06-28",
+    "released": "2016-06-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4 GB LPDDR4 (Standard edition) / 6 GB LPDDR4 (Exclusive edition)",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1532,8 +1642,9 @@
   {
     "vendor": "zuk",
     "model": "Z2 Plus",
+    "discontinued": false,
     "code": "z2_plus",
-    "released": "2016-06-28",
+    "released": "2016-06-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "3 GB LPDDR4 / 4 GB LPDDR4",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1541,6 +1652,7 @@
   {
     "vendor": "asus",
     "model": "Zenfone 3",
+    "discontinued": true,
     "code": "zenfone3",
     "released": "2016-05-30",
     "soc": "Qualcomm MSM8953 Snapdragon 625",
@@ -1550,8 +1662,9 @@
   {
     "vendor": "htc",
     "model": "HTC 10",
+    "discontinued": true,
     "code": "pme",
-    "released": "2016-05-28",
+    "released": "2016-05-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1559,8 +1672,9 @@
   {
     "vendor": "motorola",
     "model": "Moto G4",
+    "discontinued": true,
     "code": "athene",
-    "released": "2016-05-28",
+    "released": "2016-05-01",
     "soc": "Qualcomm MSM8952 Snapdragon 617",
     "ram": "2/3/4 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1568,8 +1682,9 @@
   {
     "vendor": "motorola",
     "model": "Moto G4 Play",
+    "discontinued": true,
     "code": "harpia",
-    "released": "2016-05-28",
+    "released": "2016-05-01",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
     "ram": "1/2 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
@@ -1577,8 +1692,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi Max",
+    "discontinued": true,
     "code": "hydrogen",
-    "released": "2016-05-28",
+    "released": "2016-05-01",
     "soc": "Qualcomm MSM8956 Snapdragon 650",
     "ram": "3 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
@@ -1586,8 +1702,9 @@
   {
     "vendor": "leeco",
     "model": "Le 2",
+    "discontinued": true,
     "code": "s2",
-    "released": "2016-04-28",
+    "released": "2016-04-01",
     "soc": "Qualcomm MSM8976 Snapdragon 652",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1595,8 +1712,9 @@
   {
     "vendor": "leeco",
     "model": "Le Max2",
+    "discontinued": false,
     "code": "x2",
-    "released": "2016-04-28",
+    "released": "2016-04-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4/6 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1604,8 +1722,9 @@
   {
     "vendor": "lenovo",
     "model": "Vibe K5 / K5 Plus",
+    "discontinued": true,
     "code": "A6020",
-    "released": "2016-04-28",
+    "released": "2016-04-01",
     "soc": "Qualcomm MSM8929 Snapdragon 415 (K5) / Qualcomm MSM8939v2 Snapdragon 616 (K5 Plus)",
     "ram": "2/3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1613,8 +1732,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi 5",
+    "discontinued": false,
     "code": "gemini",
-    "released": "2016-04-28",
+    "released": "2016-04-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "3 GB LPDDR4 (Standard and Pro editions) / 4 GB LPDDR4 (Exclusive edition)",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -1622,6 +1742,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S7",
+    "discontinued": true,
     "code": "herolte",
     "released": "2016-03-18",
     "soc": "Samsung Exynos 8890",
@@ -1631,6 +1752,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S7 Edge",
+    "discontinued": true,
     "code": "hero2lte",
     "released": "2016-03-18",
     "soc": "Samsung Exynos 8890",
@@ -1640,8 +1762,9 @@
   {
     "vendor": "lg",
     "model": "G5 (International)",
+    "discontinued": false,
     "code": "h850",
-    "released": "2016-02-28",
+    "released": "2016-02-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1649,8 +1772,9 @@
   {
     "vendor": "lg",
     "model": "G5 (T-Mobile)",
+    "discontinued": false,
     "code": "h830",
-    "released": "2016-02-28",
+    "released": "2016-02-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1658,8 +1782,9 @@
   {
     "vendor": "lg",
     "model": "G5 (US Unlocked)",
+    "discontinued": false,
     "code": "rs988",
-    "released": "2016-02-28",
+    "released": "2016-02-01",
     "soc": "Qualcomm MSM8996 Snapdragon 820",
     "ram": "4 GB",
     "network": "2G CDMA/2G GSM/3G UMTS/4G LTE"
@@ -1667,8 +1792,9 @@
   {
     "vendor": "nextbit",
     "model": "Robin",
+    "discontinued": false,
     "code": "ether",
-    "released": "2016-02-28",
+    "released": "2016-02-01",
     "soc": "Qualcomm MSM8992 Snapdragon 808",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1676,26 +1802,69 @@
   {
     "vendor": "xiaomi",
     "model": "Redmi Note 3",
+    "discontinued": true,
     "code": "kenzo",
-    "released": "2016-02-28",
+    "released": "2016-02-01",
     "soc": "Qualcomm MSM8956 Snapdragon 650",
+    "ram": "2/3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "bq",
+    "model": "Aquaris U",
+    "discontinued": true,
+    "code": "chaozu",
+    "released": "2016-01-01",
+    "soc": "Qualcomm MSM8937 Snapdragon 430",
+    "ram": "2 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "bq",
+    "model": "Aquaris U Plus",
+    "discontinued": true,
+    "code": "tenshi",
+    "released": "2016-01-01",
+    "soc": "Qualcomm MSM8937 Snapdragon 430",
+    "ram": "2/3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "bq",
+    "model": "Aquaris X5 Plus",
+    "discontinued": true,
+    "code": "gohan",
+    "released": "2016-01-01",
+    "soc": "Qualcomm MSM8976 Snapdragon 652",
     "ram": "2/3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
     "vendor": "lg",
     "model": "K10",
+    "discontinued": true,
     "code": "m216",
-    "released": "2016-01-28",
+    "released": "2016-01-01",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
     "ram": "1.5 GB / 2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "oneplus",
+    "model": "OnePlus 3 / 3T",
+    "discontinued": false,
+    "code": "oneplus3",
+    "released": "2016-01-01",
+    "soc": "Qualcomm MSM8996 Snapdragon 820 (3) / Qualcomm MSM8996 Pro Snapdragon 821 (3T)",
+    "ram": "6 GB LPDDR4",
+    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "oppo",
     "model": "F1 (International)",
+    "discontinued": true,
     "code": "f1f",
-    "released": "2016-01-28",
+    "released": "2016-01-01",
     "soc": "Qualcomm MSM8939 Snapdragon 615",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1703,60 +1872,47 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Tab E 8.0 LTE (Sprint)",
+    "discontinued": true,
     "code": "gtesqltespr",
-    "released": "2016-01-28",
+    "released": "2016-01-01",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
     "ram": "1.5 GB",
     "network": "2G CDMA/3G CDMA2000/4G LTE"
   },
   {
+    "vendor": "samsung",
+    "model": "Galaxy Tab S2 8.0 Wi-Fi (2016)",
+    "discontinued": true,
+    "code": "gts28vewifi",
+    "released": "2016-01-01",
+    "soc": "Qualcomm MSM8976 Snapdragon 652",
+    "ram": "3 GB",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy Tab S2 9.7 Wi-Fi (2016)",
+    "discontinued": true,
+    "code": "gts210vewifi",
+    "released": "2016-01-01",
+    "soc": "Qualcomm MSM8976 Snapdragon 652",
+    "ram": "3 GB",
+    "network": ""
+  },
+  {
     "vendor": "xiaomi",
     "model": "Redmi 3/Prime",
+    "discontinued": true,
     "code": "ido",
-    "released": "2016-01-28",
+    "released": "2016-01-01",
     "soc": "Qualcomm MSM8939v2 Snapdragon 616",
     "ram": "2/3 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
   },
   {
-    "vendor": "fairphone",
-    "model": "Fairphone 2",
-    "code": "FP2",
-    "released": "2015-12-28",
-    "soc": "Qualcomm MSM8974AB-AB Snapdragon 801",
-    "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy A3 (2016)",
-    "code": "a3xelte",
-    "released": "2015-12-28",
-    "soc": "Samsung Exynos 7578",
-    "ram": "1.5 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy A5 (2016)",
-    "code": "a5xelte",
-    "released": "2015-12-28",
-    "soc": "Samsung Exynos 7580",
-    "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy A7 (2016)",
-    "code": "a7xelte",
-    "released": "2015-12-28",
-    "soc": "Samsung Exynos 7580",
-    "ram": "3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "google",
     "model": "Pixel C",
+    "discontinued": true,
     "code": "dragon",
     "released": "2015-12-08",
     "soc": "NVIDIA Tegra X1",
@@ -1764,10 +1920,51 @@
     "network": ""
   },
   {
+    "vendor": "fairphone",
+    "model": "Fairphone 2",
+    "discontinued": false,
+    "code": "FP2",
+    "released": "2015-12-01",
+    "soc": "Qualcomm MSM8974AB-AB Snapdragon 801",
+    "ram": "2 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy A3 (2016)",
+    "discontinued": true,
+    "code": "a3xelte",
+    "released": "2015-12-01",
+    "soc": "Samsung Exynos 7578",
+    "ram": "1.5 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy A5 (2016)",
+    "discontinued": true,
+    "code": "a5xelte",
+    "released": "2015-12-01",
+    "soc": "Samsung Exynos 7580",
+    "ram": "2 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy A7 (2016)",
+    "discontinued": true,
+    "code": "a7xelte",
+    "released": "2015-12-01",
+    "soc": "Samsung Exynos 7580",
+    "ram": "3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "asus",
     "model": "Zenfone 2 Laser (720p)",
+    "discontinued": true,
     "code": "Z00L",
-    "released": "2015-11-28",
+    "released": "2015-11-01",
     "soc": "Qualcomm MSM8939 Snapdragon 615 / Qualcomm MSM8916 Snapdragon 410",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1775,8 +1972,9 @@
   {
     "vendor": "asus",
     "model": "Zenfone 2 Laser/Selfie (1080p)",
+    "discontinued": true,
     "code": "Z00T",
-    "released": "2015-11-28",
+    "released": "2015-11-01",
     "soc": "Qualcomm MSM8939 Snapdragon 615",
     "ram": "2/3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1784,8 +1982,9 @@
   {
     "vendor": "huawei",
     "model": "Honor 5X",
+    "discontinued": true,
     "code": "kiwi",
-    "released": "2015-11-28",
+    "released": "2015-11-01",
     "soc": "Qualcomm MSM8939v2 Snapdragon 616",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1793,8 +1992,9 @@
   {
     "vendor": "motorola",
     "model": "Moto G3 Turbo",
+    "discontinued": true,
     "code": "merlin",
-    "released": "2015-11-28",
+    "released": "2015-11-01",
     "soc": "Qualcomm MSM8939 Snapdragon 615",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1802,8 +2002,9 @@
   {
     "vendor": "oneplus",
     "model": "OnePlus X",
+    "discontinued": true,
     "code": "onyx",
-    "released": "2015-11-28",
+    "released": "2015-11-01",
     "soc": "Qualcomm MSM8974AC Snapdragon 801",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1811,8 +2012,9 @@
   {
     "vendor": "oppo",
     "model": "R7s (International)",
+    "discontinued": true,
     "code": "r7sf",
-    "released": "2015-11-28",
+    "released": "2015-11-01",
     "soc": "Qualcomm MSM8939 Snapdragon 615",
     "ram": "4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1820,51 +2022,17 @@
   {
     "vendor": "wileyfox",
     "model": "Storm",
+    "discontinued": true,
     "code": "kipper",
-    "released": "2015-11-28",
+    "released": "2015-11-01",
     "soc": "Qualcomm MSM8939 Snapdragon 615",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "sony",
-    "model": "Xperia Z4 Tablet LTE",
-    "code": "karin",
-    "released": "2015-10-28",
-    "soc": "Qualcomm MSM8994 Snapdragon 810",
-    "ram": "3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "sony",
-    "model": "Xperia Z4 Tablet WiFi",
-    "code": "karin_windy",
-    "released": "2015-10-28",
-    "soc": "Qualcomm MSM8994 Snapdragon 810",
-    "ram": "3 GB",
-    "network": ""
-  },
-  {
-    "vendor": "sony",
-    "model": "Xperia Z5 Compact",
-    "code": "suzuran",
-    "released": "2015-10-28",
-    "soc": "Qualcomm MSM8994 Snapdragon 810",
-    "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "wileyfox",
-    "model": "Swift",
-    "code": "crackling",
-    "released": "2015-10-28",
-    "soc": "Qualcomm MSM8916 Snapdragon 410",
-    "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "htc",
     "model": "One A9",
+    "discontinued": true,
     "code": "hiae",
     "released": "2015-10-20",
     "soc": "Qualcomm MSM8952 Snapdragon 617",
@@ -1874,6 +2042,7 @@
   {
     "vendor": "zuk",
     "model": "Z1",
+    "discontinued": true,
     "code": "ham",
     "released": "2015-10-14",
     "soc": "Qualcomm MSM8974AC Snapdragon 801",
@@ -1881,8 +2050,49 @@
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
   },
   {
+    "vendor": "sony",
+    "model": "Xperia Z4 Tablet LTE",
+    "discontinued": true,
+    "code": "karin",
+    "released": "2015-10-01",
+    "soc": "Qualcomm MSM8994 Snapdragon 810",
+    "ram": "3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "sony",
+    "model": "Xperia Z4 Tablet WiFi",
+    "discontinued": true,
+    "code": "karin_windy",
+    "released": "2015-10-01",
+    "soc": "Qualcomm MSM8994 Snapdragon 810",
+    "ram": "3 GB",
+    "network": ""
+  },
+  {
+    "vendor": "sony",
+    "model": "Xperia Z5 Compact",
+    "discontinued": true,
+    "code": "suzuran",
+    "released": "2015-10-01",
+    "soc": "Qualcomm MSM8994 Snapdragon 810",
+    "ram": "2 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "wileyfox",
+    "model": "Swift",
+    "discontinued": true,
+    "code": "crackling",
+    "released": "2015-10-01",
+    "soc": "Qualcomm MSM8916 Snapdragon 410",
+    "ram": "2 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "google",
     "model": "Nexus 5X",
+    "discontinued": true,
     "code": "bullhead",
     "released": "2015-09-29",
     "soc": "Qualcomm MSM8992 Snapdragon 808",
@@ -1892,6 +2102,7 @@
   {
     "vendor": "google",
     "model": "Nexus 6P",
+    "discontinued": true,
     "code": "angler",
     "released": "2015-09-29",
     "soc": "Qualcomm MSM8994 Snapdragon 810",
@@ -1901,8 +2112,9 @@
   {
     "vendor": "motorola",
     "model": "Moto X Pure Edition/Style (2015)",
+    "discontinued": true,
     "code": "clark",
-    "released": "2015-09-28",
+    "released": "2015-09-01",
     "soc": "Qualcomm MSM8992 Snapdragon 808",
     "ram": "3 GB",
     "network": ""
@@ -1910,8 +2122,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Tab S2 9.7 (LTE)",
+    "discontinued": true,
     "code": "gts210ltexx",
-    "released": "2015-09-28",
+    "released": "2015-09-01",
     "soc": "Samsung Exynos 5433",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1919,8 +2132,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Tab S2 9.7 (Wi-Fi)",
+    "discontinued": true,
     "code": "gts210wifi",
-    "released": "2015-09-28",
+    "released": "2015-09-01",
     "soc": "Samsung Exynos 5433",
     "ram": "3 GB",
     "network": ""
@@ -1928,8 +2142,9 @@
   {
     "vendor": "sony",
     "model": "Xperia Z5",
+    "discontinued": true,
     "code": "sumire",
-    "released": "2015-09-28",
+    "released": "2015-09-01",
     "soc": "Qualcomm MSM8994 Snapdragon 810",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1937,8 +2152,9 @@
   {
     "vendor": "xiaomi",
     "model": "Mi 4c",
+    "discontinued": true,
     "code": "libra",
-    "released": "2015-09-28",
+    "released": "2015-09-01",
     "soc": "Qualcomm MSM8992 Snapdragon 808",
     "ram": "2/3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1946,33 +2162,17 @@
   {
     "vendor": "yu",
     "model": "Yunique",
+    "discontinued": true,
     "code": "jalebi",
-    "released": "2015-09-28",
+    "released": "2015-09-01",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
     "ram": "1 GB",
     "network": ""
   },
   {
-    "vendor": "bq",
-    "model": "Aquaris M5",
-    "code": "piccolo",
-    "released": "2015-08-28",
-    "soc": "Qualcomm MSM8939 Snapdragon 615",
-    "ram": "2/3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "motorola",
-    "model": "Moto X Play",
-    "code": "lux",
-    "released": "2015-08-28",
-    "soc": "Qualcomm MSM8939 Snapdragon 615",
-    "ram": "2 GB",
-    "network": ""
-  },
-  {
     "vendor": "oneplus",
     "model": "OnePlus 2",
+    "discontinued": true,
     "code": "oneplus2",
     "released": "2015-08-28",
     "soc": "Qualcomm MSM8994 Snapdragon 810",
@@ -1980,10 +2180,31 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "bq",
+    "model": "Aquaris M5",
+    "discontinued": true,
+    "code": "piccolo",
+    "released": "2015-08-01",
+    "soc": "Qualcomm MSM8939 Snapdragon 615",
+    "ram": "2/3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "motorola",
+    "model": "Moto X Play",
+    "discontinued": true,
+    "code": "lux",
+    "released": "2015-08-01",
+    "soc": "Qualcomm MSM8939 Snapdragon 615",
+    "ram": "2 GB",
+    "network": ""
+  },
+  {
     "vendor": "samsung",
     "model": "Galaxy S5 Neo",
+    "discontinued": true,
     "code": "s5neolte",
-    "released": "2015-08-28",
+    "released": "2015-08-01",
     "soc": "Samsung Exynos 7580",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -1991,8 +2212,9 @@
   {
     "vendor": "ark",
     "model": "Benefit A3",
+    "discontinued": true,
     "code": "peach",
-    "released": "2015-07-28",
+    "released": "2015-07-01",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
     "ram": "1 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -2000,8 +2222,9 @@
   {
     "vendor": "asus",
     "model": "ZenPad 8.0 (Z380KL)",
+    "discontinued": true,
     "code": "P024",
-    "released": "2015-07-28",
+    "released": "2015-07-01",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
     "ram": "1/2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -2009,8 +2232,9 @@
   {
     "vendor": "google",
     "model": "Android One 2nd Gen",
+    "discontinued": true,
     "code": "seed",
-    "released": "2015-07-28",
+    "released": "2015-07-01",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
     "ram": "2 GB / 1 GB for IQ II",
     "network": "2G GSM/2G CDMA/4G LTE"
@@ -2018,8 +2242,9 @@
   {
     "vendor": "motorola",
     "model": "Moto G 2015",
+    "discontinued": true,
     "code": "osprey",
-    "released": "2015-07-28",
+    "released": "2015-07-01",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
     "ram": "1/2 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
@@ -2027,35 +2252,19 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Tab E 9.6 (WiFi)",
+    "discontinued": true,
     "code": "gtelwifiue",
-    "released": "2015-07-28",
+    "released": "2015-07-01",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
     "ram": "1.5 GB",
     "network": ""
   },
   {
-    "vendor": "bq",
-    "model": "Aquaris E5 4G / Aquaris E5s",
-    "code": "vegetalte",
-    "released": "2015-06-28",
-    "soc": "Qualcomm MSM8916 Snapdragon 410 (E5 4G) / Qualcomm MSM8916T Snapdragon 412 (E5s)",
-    "ram": "1/2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "bq",
-    "model": "Aquaris X5",
-    "code": "paella",
-    "released": "2015-06-28",
-    "soc": "Qualcomm MSM8916T Snapdragon 412",
-    "ram": "2/3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "lg",
     "model": "G4 (International)",
+    "discontinued": true,
     "code": "h815",
-    "released": "2015-06-28",
+    "released": "2015-06-01",
     "soc": "Qualcomm MSM8992 Snapdragon 808",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -2063,8 +2272,9 @@
   {
     "vendor": "lg",
     "model": "G4 (T-Mobile)",
+    "discontinued": true,
     "code": "h811",
-    "released": "2015-06-28",
+    "released": "2015-06-01",
     "soc": "Qualcomm MSM8992 Snapdragon 808",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -2072,26 +2282,19 @@
   {
     "vendor": "nubia",
     "model": "Z9 Max",
+    "discontinued": true,
     "code": "nx512j",
-    "released": "2015-06-28",
+    "released": "2015-06-01",
     "soc": "Qualcomm MSM8939 Snapdragon 615",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "oppo",
-    "model": "R5/R5s (International)",
-    "code": "r5",
-    "released": "2015-06-28",
-    "soc": "Qualcomm MSM8939 Snapdragon 615",
-    "ram": "2 GB (R5), 3 GB (R5s)",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "samsung",
     "model": "Galaxy J7 (2015)",
+    "discontinued": true,
     "code": "j7elte",
-    "released": "2015-06-28",
+    "released": "2015-06-01",
     "soc": "Samsung Exynos 7580",
     "ram": "1.5 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -2099,24 +2302,17 @@
   {
     "vendor": "sony",
     "model": "Xperia Z3+",
+    "discontinued": true,
     "code": "ivy",
-    "released": "2015-06-28",
+    "released": "2015-06-01",
     "soc": "Qualcomm MSM8994 Snapdragon 810",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "yu",
-    "model": "Yureka / Yureka Plus",
-    "code": "tomato",
-    "released": "2015-06-28",
-    "soc": "Qualcomm MSM8939 Snapdragon 615",
-    "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "nvidia",
     "model": "Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Android TV]",
+    "discontinued": false,
     "code": "foster",
     "released": "2015-05-28",
     "soc": "Nvidia Tegra X1 (T210)",
@@ -2126,6 +2322,7 @@
   {
     "vendor": "nvidia",
     "model": "Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) / Jetson TX1 [Tablet]",
+    "discontinued": false,
     "code": "foster_tab",
     "released": "2015-05-28",
     "soc": "Nvidia Tegra X1 (T210)",
@@ -2133,17 +2330,9 @@
     "network": ""
   },
   {
-    "vendor": "oppo",
-    "model": "R7 Plus (International)",
-    "code": "r7plus",
-    "released": "2015-05-28",
-    "soc": "Qualcomm MSM8939 Snapdragon 615",
-    "ram": "3/4 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "yu",
     "model": "Yuphoria",
+    "discontinued": true,
     "code": "lettuce",
     "released": "2015-05-12",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
@@ -2151,10 +2340,21 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "oppo",
+    "model": "R7 Plus (International)",
+    "discontinued": true,
+    "code": "r7plus",
+    "released": "2015-05-01",
+    "soc": "Qualcomm MSM8939 Snapdragon 615",
+    "ram": "3/4 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "samsung",
     "model": "Galaxy S6",
+    "discontinued": true,
     "code": "zerofltexx",
-    "released": "2015-04-28",
+    "released": "2015-04-01",
     "soc": "Samsung Exynos 7420",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -2162,8 +2362,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S6 Edge",
+    "discontinued": true,
     "code": "zeroltexx",
-    "released": "2015-04-28",
+    "released": "2015-04-01",
     "soc": "Exynos 7420",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -2171,8 +2372,9 @@
   {
     "vendor": "asus",
     "model": "Zenfone 2 (1080p)",
+    "discontinued": true,
     "code": "Z00A",
-    "released": "2015-03-28",
+    "released": "2015-03-01",
     "soc": "Intel Atom Z3580/Z3560",
     "ram": "2/4 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -2180,8 +2382,9 @@
   {
     "vendor": "asus",
     "model": "Zenfone 2 (720p)",
+    "discontinued": true,
     "code": "Z008",
-    "released": "2015-03-28",
+    "released": "2015-03-01",
     "soc": "Intel Atom Z3560",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -2189,8 +2392,9 @@
   {
     "vendor": "asus",
     "model": "Zenfone 2 (ZE500CL)",
+    "discontinued": true,
     "code": "Z00D",
-    "released": "2015-03-28",
+    "released": "2015-03-01",
     "soc": "Intel Atom Z2560",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -2198,8 +2402,9 @@
   {
     "vendor": "htc",
     "model": "One M9 (GSM)",
+    "discontinued": true,
     "code": "himaul",
-    "released": "2015-03-28",
+    "released": "2015-03-01",
     "soc": "Qualcomm MSM8994 Snapdragon 810",
     "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -2207,24 +2412,17 @@
   {
     "vendor": "htc",
     "model": "One M9 (Verizon)",
+    "discontinued": true,
     "code": "himawl",
-    "released": "2015-03-28",
+    "released": "2015-03-01",
     "soc": "Qualcomm MSM8994 Snapdragon 810",
     "ram": "3 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
   },
   {
     "vendor": "motorola",
-    "model": "Moto E 2015 LTE",
-    "code": "surnia",
-    "released": "2015-02-28",
-    "soc": "Qualcomm MSM8916 Snapdragon 410",
-    "ram": "1 GB",
-    "network": ""
-  },
-  {
-    "vendor": "motorola",
     "model": "Moto E 2015",
+    "discontinued": true,
     "code": "otus",
     "released": "2015-02-25",
     "soc": "Qualcomm MSM8212 Snapdragon 200",
@@ -2233,9 +2431,40 @@
   },
   {
     "vendor": "motorola",
+    "model": "Moto E 2015 LTE",
+    "discontinued": true,
+    "code": "surnia",
+    "released": "2015-02-01",
+    "soc": "Qualcomm MSM8916 Snapdragon 410",
+    "ram": "1 GB",
+    "network": ""
+  },
+  {
+    "vendor": "bq",
+    "model": "Aquaris E5 4G / Aquaris E5s",
+    "discontinued": true,
+    "code": "vegetalte",
+    "released": "2015-01-01",
+    "soc": "Qualcomm MSM8916 Snapdragon 410 (E5 4G) / Qualcomm MSM8916T Snapdragon 412 (E5s)",
+    "ram": "1/2 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "bq",
+    "model": "Aquaris X5",
+    "discontinued": true,
+    "code": "paella",
+    "released": "2015-01-01",
+    "soc": "Qualcomm MSM8916T Snapdragon 412",
+    "ram": "2/3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "motorola",
     "model": "Moto G 2014 LTE",
+    "discontinued": true,
     "code": "thea",
-    "released": "2015-01-28",
+    "released": "2015-01-01",
     "soc": "Qualcomm MSM8926 Snapdragon 400",
     "ram": "1 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
@@ -2243,26 +2472,49 @@
   {
     "vendor": "oppo",
     "model": "N3",
+    "discontinued": true,
     "code": "n3",
-    "released": "2015-01-28",
+    "released": "2015-01-01",
     "soc": "Qualcomm MSM8974AC Snapdragon 801",
     "ram": "2 GB",
     "network": ""
   },
   {
+    "vendor": "oppo",
+    "model": "R5/R5s (International)",
+    "discontinued": true,
+    "code": "r5",
+    "released": "2015-01-01",
+    "soc": "Qualcomm MSM8939 Snapdragon 615",
+    "ram": "2 GB (R5), 3 GB (R5s)",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "wingtech",
     "model": "Redmi 2",
+    "discontinued": true,
     "code": "wt88047",
-    "released": "2015-01-28",
+    "released": "2015-01-01",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
     "ram": "1/2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "yu",
+    "model": "Yureka / Yureka Plus",
+    "discontinued": true,
+    "code": "tomato",
+    "released": "2015-01-01",
+    "soc": "Qualcomm MSM8939 Snapdragon 615",
+    "ram": "2 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "samsung",
     "model": "Galaxy S5 Active (G870F)",
+    "discontinued": false,
     "code": "klteactivexx",
-    "released": "2014-12-28",
+    "released": "2014-12-01",
     "soc": "Qualcomm MSM8974PRO Snapdragon 801",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -2270,6 +2522,7 @@
   {
     "vendor": "google",
     "model": "Nexus 9 (LTE)",
+    "discontinued": true,
     "code": "flounder_lte",
     "released": "2014-11-03",
     "soc": "NVIDIA Tegra K1",
@@ -2279,6 +2532,7 @@
   {
     "vendor": "google",
     "model": "Nexus 9 (Wi-Fi)",
+    "discontinued": true,
     "code": "flounder",
     "released": "2014-11-03",
     "soc": "NVIDIA Tegra K1",
@@ -2288,6 +2542,7 @@
   {
     "vendor": "google",
     "model": "Nexus 6",
+    "discontinued": false,
     "code": "shamu",
     "released": "2014-10-29",
     "soc": "Qualcomm APQ8084 Snapdragon 805",
@@ -2297,8 +2552,9 @@
   {
     "vendor": "google",
     "model": "Nexus Player",
+    "discontinued": true,
     "code": "fugu",
-    "released": "2014-10-28",
+    "released": "2014-10-01",
     "soc": "Intel Atom x86_64 (Moorefield)",
     "ram": "1 GB",
     "network": ""
@@ -2306,8 +2562,9 @@
   {
     "vendor": "huawei",
     "model": "Honor 4/4X (Unified)",
+    "discontinued": true,
     "code": "cherry",
-    "released": "2014-10-28",
+    "released": "2014-10-01",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
     "ram": "1/2 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -2315,24 +2572,17 @@
   {
     "vendor": "huawei",
     "model": "Honor 4x (China Telecom)",
+    "discontinued": true,
     "code": "che10",
-    "released": "2014-10-28",
+    "released": "2014-10-01",
     "soc": "Qualcomm MSM8916 Snapdragon 410",
     "ram": "1/2 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
   },
   {
-    "vendor": "lenovo",
-    "model": "Vibe Z2 Pro",
-    "code": "kingdom",
-    "released": "2014-09-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "motorola",
     "model": "Moto X 2014",
+    "discontinued": false,
     "code": "victara",
     "released": "2014-09-26",
     "soc": "Qualcomm MSM8974AC Snapdragon 801",
@@ -2342,6 +2592,7 @@
   {
     "vendor": "sony",
     "model": "Xperia Z3",
+    "discontinued": false,
     "code": "z3",
     "released": "2014-09-04",
     "soc": "Qualcomm MSM8974AC Snapdragon 801",
@@ -2351,6 +2602,7 @@
   {
     "vendor": "sony",
     "model": "Xperia Z3 Compact",
+    "discontinued": false,
     "code": "z3c",
     "released": "2014-09-04",
     "soc": "Qualcomm MSM8974AC Snapdragon 801",
@@ -2358,26 +2610,19 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "lg",
-    "model": "G3 Beat",
-    "code": "jagnm",
-    "released": "2014-08-28",
-    "soc": "Qualcomm MSM8926 Snapdragon 400",
-    "ram": "1 GB",
+    "vendor": "lenovo",
+    "model": "Vibe Z2 Pro",
+    "discontinued": true,
+    "code": "kingdom",
+    "released": "2014-09-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "3 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "lg",
-    "model": "G3 S",
-    "code": "jag3gds",
-    "released": "2014-08-28",
-    "soc": "Qualcomm MSM8926 Snapdragon 400",
-    "ram": "1 GB",
-    "network": "2G GSM/3G UMTS"
   },
   {
     "vendor": "samsung",
     "model": "Galaxy S5 Plus",
+    "discontinued": true,
     "code": "kccat6",
     "released": "2014-08-21",
     "soc": "Qualcomm APQ8084 Snapdragon 805",
@@ -2385,8 +2630,29 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "lg",
+    "model": "G3 Beat",
+    "discontinued": true,
+    "code": "jagnm",
+    "released": "2014-08-01",
+    "soc": "Qualcomm MSM8926 Snapdragon 400",
+    "ram": "1 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "lg",
+    "model": "G3 S",
+    "discontinued": true,
+    "code": "jag3gds",
+    "released": "2014-08-01",
+    "soc": "Qualcomm MSM8926 Snapdragon 400",
+    "ram": "1 GB",
+    "network": "2G GSM/3G UMTS"
+  },
+  {
     "vendor": "nvidia",
     "model": "Shield Tablet",
+    "discontinued": true,
     "code": "shieldtablet",
     "released": "2014-07-29",
     "soc": "Nvidia Tegra K1 (T124)",
@@ -2394,26 +2660,9 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "lg",
-    "model": "G Pad 7.0 WiFi",
-    "code": "v400",
-    "released": "2014-07-28",
-    "soc": "Qualcomm MSM8226 Snapdragon 400",
-    "ram": "1 GB",
-    "network": ""
-  },
-  {
-    "vendor": "lg",
-    "model": "G Pad 8.0 (Wi-Fi)",
-    "code": "v480",
-    "released": "2014-07-28",
-    "soc": "Qualcomm MSM8226 Snapdragon 400",
-    "ram": "1 GB",
-    "network": ""
-  },
-  {
     "vendor": "samsung",
     "model": "Galaxy S5 LTE-A",
+    "discontinued": true,
     "code": "lentislte",
     "released": "2014-07-15",
     "soc": "Qualcomm APQ8084 Snapdragon 805",
@@ -2421,188 +2670,29 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "htc",
-    "model": "One (M8) Dual SIM",
-    "code": "m8d",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974AB Snapdragon 801",
-    "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "lg",
-    "model": "G3 (AT&T)",
-    "code": "d850",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "2/3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "lg",
-    "model": "G3 (Canada)",
-    "code": "d852",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "2/3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "lg",
-    "model": "G3 (International)",
-    "code": "d855",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "2/3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "lg",
-    "model": "G3 (Korea)",
-    "code": "f400",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "3 GB",
-    "network": "2G GSM/3G UMTS"
-  },
-  {
-    "vendor": "lg",
-    "model": "G3 (Sprint)",
-    "code": "ls990",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "3 GB",
-    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "lg",
-    "model": "G3 (T-Mobile)",
-    "code": "d851",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "2/3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "lg",
-    "model": "G3 (Verizon)",
-    "code": "vs985",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "3 GB",
-    "network": "2G GSM/2G CDMA/3G CDMA2000/4G LTE"
-  },
-  {
-    "vendor": "motorola",
-    "model": "Moto G 2014",
-    "code": "titan",
-    "released": "2014-06-28",
+    "model": "G Pad 7.0 WiFi",
+    "discontinued": true,
+    "code": "v400",
+    "released": "2014-07-01",
     "soc": "Qualcomm MSM8226 Snapdragon 400",
     "ram": "1 GB",
-    "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000"
+    "network": ""
   },
   {
-    "vendor": "motorola",
-    "model": "Moto G 4G",
-    "code": "peregrine",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8926 Snapdragon 400",
+    "vendor": "lg",
+    "model": "G Pad 8.0 (Wi-Fi)",
+    "discontinued": true,
+    "code": "v480",
+    "released": "2014-07-01",
+    "soc": "Qualcomm MSM8226 Snapdragon 400",
     "ram": "1 GB",
-    "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
-  },
-  {
-    "vendor": "oppo",
-    "model": "Find 7a/s",
-    "code": "find7",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974AB/MSM8974AC Snapdragon 801",
-    "ram": "2/3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy Note Pro 12.2 Wi-Fi",
-    "code": "v1awifi",
-    "released": "2014-06-28",
-    "soc": "Samsung Exynos5420",
-    "ram": "3 GB",
     "network": ""
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy S5 LTE (G9006V/8V)",
-    "code": "kltechn",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "2 GB",
-    "network": ""
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy S5 LTE Duos (G9006W/8W)",
-    "code": "kltechnduo",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "2 GB",
-    "network": ""
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy S5 LTE Duos (G900FD/MD)",
-    "code": "klteduos",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "2 GB",
-    "network": ""
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy Tab PRO 10.1",
-    "code": "n2awifi",
-    "released": "2014-06-28",
-    "soc": "Samsung Exynos5420",
-    "ram": "2 GB",
-    "network": ""
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy Tab S 10.5 LTE",
-    "code": "chagalllte",
-    "released": "2014-06-28",
-    "soc": "Samsung Exynos5420",
-    "ram": "3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy Tab S 10.5 Wi-Fi",
-    "code": "chagallwifi",
-    "released": "2014-06-28",
-    "soc": "Samsung Exynos5420",
-    "ram": "3 GB",
-    "network": ""
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy Tab S 8.4 Wi-Fi",
-    "code": "klimtwifi",
-    "released": "2014-06-28",
-    "soc": "Samsung Exynos5420",
-    "ram": "3 GB",
-    "network": ""
-  },
-  {
-    "vendor": "xiaomi",
-    "model": "Mi 3 / Mi 4",
-    "code": "cancro",
-    "released": "2014-06-28",
-    "soc": "Qualcomm MSM8974 Snapdragon 800 (Mi 3) / Qualcomm MSM8974AC Snapdragon 801 (Mi 4)",
-    "ram": "2 GB (Mi 3) / 3 GB (Mi 4)",
-    "network": "2G GSM/2G CDMA/3G UMTS"
   },
   {
     "vendor": "samsung",
     "model": "Galaxy S5 Sport",
+    "discontinued": true,
     "code": "kltesprsports",
     "released": "2014-06-23",
     "soc": "Qualcomm MSM8974AC Snapdragon 801",
@@ -2612,6 +2702,7 @@
   {
     "vendor": "oneplus",
     "model": "OnePlus One",
+    "discontinued": false,
     "code": "bacon",
     "released": "2014-06-06",
     "soc": "Qualcomm MSM8974AC Snapdragon 801",
@@ -2619,35 +2710,109 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "lg",
-    "model": "G Pad 7.0 (LTE)",
-    "code": "v410",
-    "released": "2014-05-28",
-    "soc": "Qualcomm MSM8226 Snapdragon 400",
-    "ram": "1 GB",
-    "network": ""
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy S5 LTE (SC-04F/SCL23)",
-    "code": "kltekdi",
-    "released": "2014-05-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "vendor": "htc",
+    "model": "One (M8) Dual SIM",
+    "discontinued": true,
+    "code": "m8d",
+    "released": "2014-06-01",
+    "soc": "Qualcomm MSM8974AB Snapdragon 801",
     "ram": "2 GB",
-    "network": ""
+    "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "xiaomi",
-    "model": "Redmi 1S",
-    "code": "armani",
-    "released": "2014-05-28",
+    "vendor": "lg",
+    "model": "G3 (AT&T)",
+    "discontinued": false,
+    "code": "d850",
+    "released": "2014-06-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "2/3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "lg",
+    "model": "G3 (Canada)",
+    "discontinued": false,
+    "code": "d852",
+    "released": "2014-06-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "2/3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "lg",
+    "model": "G3 (International)",
+    "discontinued": false,
+    "code": "d855",
+    "released": "2014-06-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "2/3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "lg",
+    "model": "G3 (Korea)",
+    "discontinued": false,
+    "code": "f400",
+    "released": "2014-06-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "3 GB",
+    "network": "2G GSM/3G UMTS"
+  },
+  {
+    "vendor": "lg",
+    "model": "G3 (Sprint)",
+    "discontinued": false,
+    "code": "ls990",
+    "released": "2014-06-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "3 GB",
+    "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "lg",
+    "model": "G3 (T-Mobile)",
+    "discontinued": false,
+    "code": "d851",
+    "released": "2014-06-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "2/3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "lg",
+    "model": "G3 (Verizon)",
+    "discontinued": false,
+    "code": "vs985",
+    "released": "2014-06-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "3 GB",
+    "network": "2G GSM/2G CDMA/3G CDMA2000/4G LTE"
+  },
+  {
+    "vendor": "motorola",
+    "model": "Moto G 2014",
+    "discontinued": true,
+    "code": "titan",
+    "released": "2014-06-01",
     "soc": "Qualcomm MSM8226 Snapdragon 400",
     "ram": "1 GB",
-    "network": "2G GSM/3G UMTS"
+    "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000"
+  },
+  {
+    "vendor": "motorola",
+    "model": "Moto G 4G",
+    "discontinued": true,
+    "code": "peregrine",
+    "released": "2014-06-01",
+    "soc": "Qualcomm MSM8926 Snapdragon 400",
+    "ram": "1 GB",
+    "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
   },
   {
     "vendor": "motorola",
     "model": "Moto E",
+    "discontinued": true,
     "code": "condor",
     "released": "2014-05-13",
     "soc": "Qualcomm MSM8212 Snapdragon 200",
@@ -2656,61 +2821,38 @@
   },
   {
     "vendor": "lg",
-    "model": "G2 Mini",
-    "code": "g2m",
-    "released": "2014-04-28",
+    "model": "G Pad 7.0 (LTE)",
+    "discontinued": true,
+    "code": "v410",
+    "released": "2014-05-01",
     "soc": "Qualcomm MSM8226 Snapdragon 400",
     "ram": "1 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
+    "network": ""
   },
   {
-    "vendor": "lg",
-    "model": "Optimus L70",
-    "code": "w5",
-    "released": "2014-04-28",
-    "soc": "Qualcomm MSM8210 Snapdragon 200",
+    "vendor": "samsung",
+    "model": "Galaxy S5 LTE (SC-04F/SCL23)",
+    "discontinued": false,
+    "code": "kltekdi",
+    "released": "2014-05-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "2 GB",
+    "network": ""
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "Redmi 1S",
+    "discontinued": true,
+    "code": "armani",
+    "released": "2014-05-01",
+    "soc": "Qualcomm MSM8226 Snapdragon 400",
     "ram": "1 GB",
     "network": "2G GSM/3G UMTS"
   },
   {
     "vendor": "samsung",
-    "model": "Galaxy S4 Value Edition (GT-I9515/L)",
-    "code": "jfvelte",
-    "released": "2014-04-28",
-    "soc": "Qualcomm Snapdragon 600",
-    "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy S5 LTE (G900I/P)",
-    "code": "kltedv",
-    "released": "2014-04-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "2 GB",
-    "network": ""
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy S5 LTE (G900K/L/S)",
-    "code": "kltekor",
-    "released": "2014-04-28",
-    "soc": "Qualcomm MSM8974AC Snapdragon 801",
-    "ram": "2 GB",
-    "network": ""
-  },
-  {
-    "vendor": "sony",
-    "model": "Xperia Z2",
-    "code": "sirius",
-    "released": "2014-04-28",
-    "soc": "Qualcomm MSM8974AB Snapdragon 801",
-    "ram": "3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "samsung",
     "model": "Galaxy S III Neo (Dual SIM)",
+    "discontinued": false,
     "code": "s3ve3gds",
     "released": "2014-04-11",
     "soc": "Qualcomm MSM8226 Snapdragon 400",
@@ -2720,6 +2862,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S III Neo (Samsung Camera)",
+    "discontinued": false,
     "code": "s3ve3gjv",
     "released": "2014-04-11",
     "soc": "Qualcomm MSM8226 Snapdragon 400",
@@ -2729,6 +2872,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S III Neo (Sony Camera)",
+    "discontinued": false,
     "code": "s3ve3gxx",
     "released": "2014-04-11",
     "soc": "Qualcomm MSM8226 Snapdragon 400",
@@ -2738,6 +2882,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S5 LTE (G900AZ/S902L)",
+    "discontinued": false,
     "code": "klteaio",
     "released": "2014-04-11",
     "soc": "Qualcomm MSM8974AC Snapdragon 801",
@@ -2747,6 +2892,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S5 LTE (G900F/M/R4/R7/T/V/W8)",
+    "discontinued": false,
     "code": "klte",
     "released": "2014-04-11",
     "soc": "Qualcomm MSM8974AC Snapdragon 801",
@@ -2754,26 +2900,69 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "htc",
-    "model": "One (M8)",
-    "code": "m8",
-    "released": "2014-03-28",
-    "soc": "Qualcomm MSM8974AB Snapdragon 801",
-    "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
+    "vendor": "lg",
+    "model": "G2 Mini",
+    "discontinued": true,
+    "code": "g2m",
+    "released": "2014-04-01",
+    "soc": "Qualcomm MSM8226 Snapdragon 400",
+    "ram": "1 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "lg",
+    "model": "Optimus L70",
+    "discontinued": true,
+    "code": "w5",
+    "released": "2014-04-01",
+    "soc": "Qualcomm MSM8210 Snapdragon 200",
+    "ram": "1 GB",
+    "network": "2G GSM/3G UMTS"
   },
   {
     "vendor": "samsung",
-    "model": "Galaxy S5 (International 3G)",
-    "code": "k3gxx",
-    "released": "2014-03-28",
-    "soc": "Samsung Exynos5422",
+    "model": "Galaxy S4 Value Edition (GT-I9515/L)",
+    "discontinued": false,
+    "code": "jfvelte",
+    "released": "2014-04-01",
+    "soc": "Qualcomm Snapdragon 600",
     "ram": "2 GB",
-    "network": "2G GSM/3G UMTS"
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy S5 LTE (G900I/P)",
+    "discontinued": false,
+    "code": "kltedv",
+    "released": "2014-04-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "2 GB",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy S5 LTE (G900K/L/S)",
+    "discontinued": false,
+    "code": "kltekor",
+    "released": "2014-04-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "2 GB",
+    "network": ""
+  },
+  {
+    "vendor": "sony",
+    "model": "Xperia Z2",
+    "discontinued": false,
+    "code": "sirius",
+    "released": "2014-04-01",
+    "soc": "Qualcomm MSM8974AB Snapdragon 801",
+    "ram": "3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
     "vendor": "sony",
     "model": "Xperia Tablet Z2 LTE",
+    "discontinued": true,
     "code": "castor",
     "released": "2014-03-26",
     "soc": "Qualcomm MSM8974AC Snapdragon 801",
@@ -2783,6 +2972,7 @@
   {
     "vendor": "sony",
     "model": "Xperia Tablet Z2 Wi-Fi",
+    "discontinued": true,
     "code": "castor_windy",
     "released": "2014-03-26",
     "soc": "Qualcomm MSM8974AC Snapdragon 801",
@@ -2790,10 +2980,31 @@
     "network": ""
   },
   {
+    "vendor": "htc",
+    "model": "One (M8)",
+    "discontinued": true,
+    "code": "m8",
+    "released": "2014-03-01",
+    "soc": "Qualcomm MSM8974AB Snapdragon 801",
+    "ram": "2 GB",
+    "network": "2G GSM/3G UMTS/3G CDMA2000/4G LTE"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy S5 (International 3G)",
+    "discontinued": true,
+    "code": "k3gxx",
+    "released": "2014-03-01",
+    "soc": "Samsung Exynos5422",
+    "ram": "2 GB",
+    "network": "2G GSM/3G UMTS"
+  },
+  {
     "vendor": "lg",
     "model": "L90",
+    "discontinued": true,
     "code": "w7",
-    "released": "2014-02-28",
+    "released": "2014-02-01",
     "soc": "Qualcomm MSM8226 Snapdragon 400",
     "ram": "1 GB",
     "network": "2G GSM/3G UMTS"
@@ -2801,33 +3012,127 @@
   {
     "vendor": "huawei",
     "model": "Ascend Mate 2 4G",
+    "discontinued": true,
     "code": "mt2",
-    "released": "2014-01-28",
+    "released": "2014-01-01",
     "soc": "Qualcomm MSM 8928",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "oppo",
+    "model": "Find 7a/s",
+    "discontinued": true,
+    "code": "find7",
+    "released": "2014-01-01",
+    "soc": "Qualcomm MSM8974AB/MSM8974AC Snapdragon 801",
+    "ram": "2/3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy Note Pro 12.2 Wi-Fi",
+    "discontinued": true,
+    "code": "v1awifi",
+    "released": "2014-01-01",
+    "soc": "Samsung Exynos5420",
+    "ram": "3 GB",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy S5 LTE (G9006V/8V)",
+    "discontinued": false,
+    "code": "kltechn",
+    "released": "2014-01-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "2 GB",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy S5 LTE Duos (G9006W/8W)",
+    "discontinued": false,
+    "code": "kltechnduo",
+    "released": "2014-01-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "2 GB",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy S5 LTE Duos (G900FD/MD)",
+    "discontinued": false,
+    "code": "klteduos",
+    "released": "2014-01-01",
+    "soc": "Qualcomm MSM8974AC Snapdragon 801",
+    "ram": "2 GB",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy Tab PRO 10.1",
+    "discontinued": true,
+    "code": "n2awifi",
+    "released": "2014-01-01",
+    "soc": "Samsung Exynos5420",
+    "ram": "2 GB",
+    "network": ""
+  },
+  {
     "vendor": "samsung",
     "model": "Galaxy Tab Pro 8.4",
+    "discontinued": true,
     "code": "mondrianwifi",
-    "released": "2014-01-28",
+    "released": "2014-01-01",
     "soc": "Qualcomm MSM8974 Snapdragon 800",
     "ram": "2 GB",
     "network": ""
   },
   {
-    "vendor": "motorola",
-    "model": "Moto G",
-    "code": "falcon",
-    "released": "2013-11-28",
-    "soc": "Qualcomm MSM8226 Snapdragon 400",
-    "ram": "1 GB",
-    "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000"
+    "vendor": "samsung",
+    "model": "Galaxy Tab S 10.5 LTE",
+    "discontinued": true,
+    "code": "chagalllte",
+    "released": "2014-01-01",
+    "soc": "Samsung Exynos5420",
+    "ram": "3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy Tab S 10.5 Wi-Fi",
+    "discontinued": true,
+    "code": "chagallwifi",
+    "released": "2014-01-01",
+    "soc": "Samsung Exynos5420",
+    "ram": "3 GB",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy Tab S 8.4 Wi-Fi",
+    "discontinued": true,
+    "code": "klimtwifi",
+    "released": "2014-01-01",
+    "soc": "Samsung Exynos5420",
+    "ram": "3 GB",
+    "network": ""
+  },
+  {
+    "vendor": "xiaomi",
+    "model": "Mi 3 / Mi 4",
+    "discontinued": true,
+    "code": "cancro",
+    "released": "2014-01-01",
+    "soc": "Qualcomm MSM8974 Snapdragon 800 (Mi 3) / Qualcomm MSM8974AC Snapdragon 801 (Mi 4)",
+    "ram": "2 GB (Mi 3) / 3 GB (Mi 4)",
+    "network": "2G GSM/2G CDMA/3G UMTS"
   },
   {
     "vendor": "samsung",
     "model": "Galaxy Grand 2 Duos",
+    "discontinued": true,
     "code": "ms013g",
     "released": "2013-11-25",
     "soc": "Qualcomm MSM8226 Snapdragon 400",
@@ -2835,8 +3140,19 @@
     "network": "2G CDMA/2G GSM/3G UMTS"
   },
   {
+    "vendor": "motorola",
+    "model": "Moto G",
+    "discontinued": true,
+    "code": "falcon",
+    "released": "2013-11-01",
+    "soc": "Qualcomm MSM8226 Snapdragon 400",
+    "ram": "1 GB",
+    "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000"
+  },
+  {
     "vendor": "google",
     "model": "Nexus 5",
+    "discontinued": true,
     "code": "hammerhead",
     "released": "2013-10-31",
     "soc": "Qualcomm MSM8974 Snapdragon 800",
@@ -2844,44 +3160,9 @@
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
   },
   {
-    "vendor": "htc",
-    "model": "One Max (GSM)",
-    "code": "t6",
-    "released": "2013-10-28",
-    "soc": "Qualcomm APQ8064T Snapdragon 600",
-    "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "htc",
-    "model": "One Max (Verizon)",
-    "code": "t6vzw",
-    "released": "2013-10-28",
-    "soc": "Qualcomm APQ8064T Snapdragon 600",
-    "ram": "2 GB",
-    "network": "2G CDMA/3G UMTS/4G LTE"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy Note 10.1 2014 (LTE)",
-    "code": "lt03lte",
-    "released": "2013-10-28",
-    "soc": "Qualcomm MSM8974 Snapdragon 800",
-    "ram": "3 GB",
-    "network": ""
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy S4 LTE-A (GT-I9506)",
-    "code": "ks01lte",
-    "released": "2013-10-28",
-    "soc": "Qualcomm MSM8974 Snapdragon 800",
-    "ram": "2 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "lg",
     "model": "G Pad 8.3",
+    "discontinued": true,
     "code": "v500",
     "released": "2013-10-14",
     "soc": "Qualcomm APQ8064T Snapdragon 600",
@@ -2889,53 +3170,49 @@
     "network": ""
   },
   {
-    "vendor": "samsung",
-    "model": "Galaxy Note 3 (International 3G)",
-    "code": "ha3g",
-    "released": "2013-09-28",
-    "soc": "Samsung Exynos5420",
-    "ram": "3 GB",
-    "network": "2G GSM/3G UMTS"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy Note 3 LTE (N9005/P)",
-    "code": "hlte",
-    "released": "2013-09-28",
-    "soc": "Qualcomm MSM8974AB Snapdragon 800",
-    "ram": "3 GB",
-    "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy Note 3 LTE (N9008V)",
-    "code": "hltechn",
-    "released": "2013-09-28",
-    "soc": "Qualcomm MSM8974AB Snapdragon 800",
-    "ram": "3 GB",
+    "vendor": "htc",
+    "model": "One Max (GSM)",
+    "discontinued": true,
+    "code": "t6",
+    "released": "2013-10-01",
+    "soc": "Qualcomm APQ8064T Snapdragon 600",
+    "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "samsung",
-    "model": "Galaxy Note 3 LTE (N900K/L/S)",
-    "code": "hltekor",
-    "released": "2013-09-28",
-    "soc": "Qualcomm MSM8974AB Snapdragon 800",
-    "ram": "3 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
+    "vendor": "htc",
+    "model": "One Max (Verizon)",
+    "discontinued": true,
+    "code": "t6vzw",
+    "released": "2013-10-01",
+    "soc": "Qualcomm APQ8064T Snapdragon 600",
+    "ram": "2 GB",
+    "network": "2G CDMA/3G UMTS/4G LTE"
   },
   {
     "vendor": "samsung",
-    "model": "Galaxy Note 3 LTE (N900T/V/W8)",
-    "code": "hltetmo",
-    "released": "2013-09-28",
-    "soc": "Qualcomm MSM8974AB Snapdragon 800",
+    "model": "Galaxy Note 10.1 2014 (LTE)",
+    "discontinued": true,
+    "code": "lt03lte",
+    "released": "2013-10-01",
+    "soc": "Qualcomm MSM8974 Snapdragon 800",
     "ram": "3 GB",
+    "network": ""
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy S4 LTE-A (GT-I9506)",
+    "discontinued": true,
+    "code": "ks01lte",
+    "released": "2013-10-01",
+    "soc": "Qualcomm MSM8974 Snapdragon 800",
+    "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
     "vendor": "lg",
     "model": "G2 (AT&T)",
+    "discontinued": false,
     "code": "d800",
     "released": "2013-09-12",
     "soc": "Qualcomm MSM8974 Snapdragon 800",
@@ -2945,6 +3222,7 @@
   {
     "vendor": "lg",
     "model": "G2 (Canadian)",
+    "discontinued": false,
     "code": "d803",
     "released": "2013-09-12",
     "soc": "Qualcomm MSM8974 Snapdragon 800",
@@ -2954,6 +3232,7 @@
   {
     "vendor": "lg",
     "model": "G2 (International)",
+    "discontinued": false,
     "code": "d802",
     "released": "2013-09-12",
     "soc": "Qualcomm MSM8974 Snapdragon 800",
@@ -2963,6 +3242,7 @@
   {
     "vendor": "lg",
     "model": "G2 (T-Mobile)",
+    "discontinued": false,
     "code": "d801",
     "released": "2013-09-12",
     "soc": "Qualcomm MSM8974 Snapdragon 800",
@@ -2972,6 +3252,7 @@
   {
     "vendor": "google",
     "model": "Nexus 7 (LTE, 2013 version)",
+    "discontinued": true,
     "code": "deb",
     "released": "2013-09-09",
     "soc": "Qualcomm MSM8960T Snapdragon S4 Pro",
@@ -2979,8 +3260,59 @@
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "samsung",
+    "model": "Galaxy Note 3 (International 3G)",
+    "discontinued": true,
+    "code": "ha3g",
+    "released": "2013-09-01",
+    "soc": "Samsung Exynos5420",
+    "ram": "3 GB",
+    "network": "2G GSM/3G UMTS"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy Note 3 LTE (N9005/P)",
+    "discontinued": false,
+    "code": "hlte",
+    "released": "2013-09-01",
+    "soc": "Qualcomm MSM8974AB Snapdragon 800",
+    "ram": "3 GB",
+    "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy Note 3 LTE (N9008V)",
+    "discontinued": false,
+    "code": "hltechn",
+    "released": "2013-09-01",
+    "soc": "Qualcomm MSM8974AB Snapdragon 800",
+    "ram": "3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy Note 3 LTE (N900K/L/S)",
+    "discontinued": false,
+    "code": "hltekor",
+    "released": "2013-09-01",
+    "soc": "Qualcomm MSM8974AB Snapdragon 800",
+    "ram": "3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy Note 3 LTE (N900T/V/W8)",
+    "discontinued": false,
+    "code": "hltetmo",
+    "released": "2013-09-01",
+    "soc": "Qualcomm MSM8974AB Snapdragon 800",
+    "ram": "3 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
+  },
+  {
     "vendor": "motorola",
     "model": "Moto X",
+    "discontinued": true,
     "code": "ghost",
     "released": "2013-08-23",
     "soc": "Qualcomm MSM8960dt Snapdragon S4",
@@ -2990,6 +3322,7 @@
   {
     "vendor": "nvidia",
     "model": "Shield Portable",
+    "discontinued": true,
     "code": "roth",
     "released": "2013-07-31",
     "soc": "Nvidia Tegra 4 (T114)",
@@ -2997,35 +3330,9 @@
     "network": ""
   },
   {
-    "vendor": "samsung",
-    "model": "Galaxy S4 Mini (International 3G)",
-    "code": "serrano3gxx",
-    "released": "2013-07-28",
-    "soc": "Qualcomm MSM8930AB Snapdragon 400",
-    "ram": "1.5 GB",
-    "network": "2G GSM/3G UMTS"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy S4 Mini (International Dual SIM)",
-    "code": "serranodsdd",
-    "released": "2013-07-28",
-    "soc": "Qualcomm MSM8930AB Snapdragon 400",
-    "ram": "1.5 GB",
-    "network": "2G GSM/3G UMTS"
-  },
-  {
-    "vendor": "samsung",
-    "model": "Galaxy S4 Mini (International LTE)",
-    "code": "serranoltexx",
-    "released": "2013-07-28",
-    "soc": "Qualcomm MSM8930AB Snapdragon 400",
-    "ram": "1.5 GB",
-    "network": "2G GSM/3G UMTS/4G LTE"
-  },
-  {
     "vendor": "google",
     "model": "Nexus 7 (Wi-Fi, 2013 version)",
+    "discontinued": true,
     "code": "flo",
     "released": "2013-07-26",
     "soc": "Qualcomm MSM8960T Snapdragon S4 Pro",
@@ -3035,6 +3342,7 @@
   {
     "vendor": "google",
     "model": "Nexus 7 2013 (Wi-Fi, Repartitioned)",
+    "discontinued": false,
     "code": "flox",
     "released": "2013-07-26",
     "soc": "Qualcomm MSM8960T Snapdragon S4 Pro",
@@ -3043,18 +3351,40 @@
   },
   {
     "vendor": "samsung",
-    "model": "Galaxy Note 10.1 Wi-Fi (2014)",
-    "code": "n1awifi",
-    "released": "2013-06-28",
-    "soc": "Samsung Exynos5420",
-    "ram": "3 GB",
-    "network": ""
+    "model": "Galaxy S4 Mini (International 3G)",
+    "discontinued": true,
+    "code": "serrano3gxx",
+    "released": "2013-07-01",
+    "soc": "Qualcomm MSM8930AB Snapdragon 400",
+    "ram": "1.5 GB",
+    "network": "2G GSM/3G UMTS"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy S4 Mini (International Dual SIM)",
+    "discontinued": true,
+    "code": "serranodsdd",
+    "released": "2013-07-01",
+    "soc": "Qualcomm MSM8930AB Snapdragon 400",
+    "ram": "1.5 GB",
+    "network": "2G GSM/3G UMTS"
+  },
+  {
+    "vendor": "samsung",
+    "model": "Galaxy S4 Mini (International LTE)",
+    "discontinued": true,
+    "code": "serranoltexx",
+    "released": "2013-07-01",
+    "soc": "Qualcomm MSM8930AB Snapdragon 400",
+    "ram": "1.5 GB",
+    "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
     "vendor": "samsung",
     "model": "Galaxy S4 Active",
+    "discontinued": false,
     "code": "jactivelte",
-    "released": "2013-06-28",
+    "released": "2013-06-01",
     "soc": "Qualcomm Snapdragon 600 (APQ8064T)",
     "ram": "2 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
@@ -3062,8 +3392,9 @@
   {
     "vendor": "sony",
     "model": "Xperia M",
+    "discontinued": true,
     "code": "nicki",
-    "released": "2013-06-28",
+    "released": "2013-06-01",
     "soc": "Qualcomm MSM8227 Snapdragon S4 Plus",
     "ram": "1 GB",
     "network": "2G GSM/3G UMTS"
@@ -3071,8 +3402,9 @@
   {
     "vendor": "sony",
     "model": "Xperia ZR",
+    "discontinued": true,
     "code": "dogo",
-    "released": "2013-06-28",
+    "released": "2013-06-01",
     "soc": "Qualcomm APQ8064 Snapdragon S4 Pro",
     "ram": "2 GB LPDDR2",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -3080,8 +3412,9 @@
   {
     "vendor": "sony",
     "model": "Xperia L",
+    "discontinued": true,
     "code": "taoshan",
-    "released": "2013-05-28",
+    "released": "2013-05-01",
     "soc": "Qualcomm MSM8230 Snapdragon 400",
     "ram": "1 GB",
     "network": "2G GSM/3G UMTS"
@@ -3089,8 +3422,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Note 8.0 (GSM)",
+    "discontinued": true,
     "code": "n5100",
-    "released": "2013-04-28",
+    "released": "2013-04-01",
     "soc": "Samsung Exynos 4412",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS"
@@ -3098,8 +3432,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Note 8.0 (LTE)",
+    "discontinued": true,
     "code": "n5120",
-    "released": "2013-04-28",
+    "released": "2013-04-01",
     "soc": "Samsung Exynos 4412",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -3107,8 +3442,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Note 8.0 (Wi-Fi)",
+    "discontinued": true,
     "code": "n5110",
-    "released": "2013-04-28",
+    "released": "2013-04-01",
     "soc": "Samsung Exynos 4412",
     "ram": "2 GB",
     "network": ""
@@ -3116,8 +3452,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S4 (GT-I9505, SGH-I337M, SGH-M919)",
+    "discontinued": false,
     "code": "jfltexx",
-    "released": "2013-04-28",
+    "released": "2013-04-01",
     "soc": "Qualcomm Snapdragon 600",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -3125,8 +3462,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S4 (SCH-I545)",
+    "discontinued": false,
     "code": "jfltevzw",
-    "released": "2013-04-28",
+    "released": "2013-04-01",
     "soc": "Qualcomm Snapdragon 600 (APQ8064T)",
     "ram": "2 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
@@ -3134,8 +3472,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S4 (SCH-R970, SPH-L720)",
+    "discontinued": false,
     "code": "jfltespr",
-    "released": "2013-04-28",
+    "released": "2013-04-01",
     "soc": "Qualcomm Snapdragon 600 (APQ8064T)",
     "ram": "2 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
@@ -3143,8 +3482,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S4 (SGH-I337)",
+    "discontinued": false,
     "code": "jflteatt",
-    "released": "2013-04-28",
+    "released": "2013-04-01",
     "soc": "Qualcomm Snapdragon 600 (APQ8064T)",
     "ram": "2 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/3G CDMA2000/4G LTE"
@@ -3152,8 +3492,9 @@
   {
     "vendor": "sony",
     "model": "Xperia SP",
+    "discontinued": true,
     "code": "huashan",
-    "released": "2013-04-28",
+    "released": "2013-04-01",
     "soc": "Qualcomm MSM8960T Snapdragon S4 Pro",
     "ram": "1 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -3161,8 +3502,9 @@
   {
     "vendor": "htc",
     "model": "One (GSM)",
+    "discontinued": true,
     "code": "m7",
-    "released": "2013-03-28",
+    "released": "2013-03-01",
     "soc": "Qualcomm APQ8064T Snapdragon 600",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -3170,8 +3512,9 @@
   {
     "vendor": "htc",
     "model": "One (Verizon)",
+    "discontinued": true,
     "code": "m7vzw",
-    "released": "2013-03-28",
+    "released": "2013-03-01",
     "soc": "Qualcomm APQ8064T Snapdragon 600",
     "ram": "2 GB",
     "network": "2G CDMA/3G CDMA2000/4G LTE"
@@ -3179,8 +3522,9 @@
   {
     "vendor": "sony",
     "model": "Xperia ZL",
+    "discontinued": true,
     "code": "odin",
-    "released": "2013-03-28",
+    "released": "2013-03-01",
     "soc": "Qualcomm APQ8064 Snapdragon S4 Pro",
     "ram": "2 GB LPDDR2",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -3188,8 +3532,9 @@
   {
     "vendor": "sony",
     "model": "Xperia Tablet Z LTE",
+    "discontinued": true,
     "code": "pollux",
-    "released": "2013-02-28",
+    "released": "2013-02-01",
     "soc": "Qualcomm APQ8064 Snapdragon S4 Pro",
     "ram": "2 GB LPDDR2",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -3197,8 +3542,9 @@
   {
     "vendor": "sony",
     "model": "Xperia Tablet Z Wi-Fi",
+    "discontinued": true,
     "code": "pollux_windy",
-    "released": "2013-02-28",
+    "released": "2013-02-01",
     "soc": "Qualcomm APQ8064 Snapdragon S4 Pro",
     "ram": "2 GB LPDDR2",
     "network": ""
@@ -3206,15 +3552,27 @@
   {
     "vendor": "sony",
     "model": "Xperia Z",
+    "discontinued": true,
     "code": "yuga",
-    "released": "2013-02-28",
+    "released": "2013-02-01",
     "soc": "Qualcomm APQ8064 Snapdragon S4 Pro",
     "ram": "2 GB LPDDR2",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
+    "vendor": "samsung",
+    "model": "Galaxy Note 10.1 Wi-Fi (2014)",
+    "discontinued": true,
+    "code": "n1awifi",
+    "released": "2013-01-01",
+    "soc": "Samsung Exynos5420",
+    "ram": "3 GB",
+    "network": ""
+  },
+  {
     "vendor": "google",
     "model": "Nexus 10",
+    "discontinued": true,
     "code": "manta",
     "released": "2012-11-13",
     "soc": "Samsung Exynos 5",
@@ -3224,6 +3582,7 @@
   {
     "vendor": "google",
     "model": "Nexus 4",
+    "discontinued": true,
     "code": "mako",
     "released": "2012-11-13",
     "soc": "Qualcomm APQ8064 Snapdragon S4 Pro",
@@ -3233,8 +3592,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S III (LTE / International)",
+    "discontinued": true,
     "code": "i9305",
-    "released": "2012-10-28",
+    "released": "2012-10-01",
     "soc": "Samsung Exynos 4412",
     "ram": "2 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
@@ -3242,8 +3602,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Note 2 (LTE)",
+    "discontinued": true,
     "code": "t0lte",
-    "released": "2012-09-28",
+    "released": "2012-09-01",
     "soc": "Samsung Exynos 4412",
     "ram": "2 GB",
     "network": "2G GSM/2G CDMA/3G UMTS/4G LTE"
@@ -3251,8 +3612,9 @@
   {
     "vendor": "sony",
     "model": "Xperia T",
+    "discontinued": true,
     "code": "mint",
-    "released": "2012-09-28",
+    "released": "2012-09-01",
     "soc": "Qualcomm MSM8260A Snapdragon S4",
     "ram": "1 GB",
     "network": "2G GSM/3G UMTS"
@@ -3260,24 +3622,17 @@
   {
     "vendor": "sony",
     "model": "Xperia V",
+    "discontinued": true,
     "code": "tsubasa",
-    "released": "2012-09-28",
+    "released": "2012-09-01",
     "soc": "Qualcomm MSM8960 Snapdragon S4",
     "ram": "1 GB",
     "network": "2G GSM/3G UMTS/4G LTE"
   },
   {
-    "vendor": "sony",
-    "model": "Xperia TX",
-    "code": "hayabusa",
-    "released": "2012-08-28",
-    "soc": "Qualcomm MSM8260A Snapdragon S4",
-    "ram": "1 GB",
-    "network": "2G GSM/3G UMTS"
-  },
-  {
     "vendor": "motorola",
     "model": "Photon Q 4G LTE",
+    "discontinued": true,
     "code": "xt897",
     "released": "2012-08-19",
     "soc": "Qualcomm MSM8960 Snapdragon S4 Plus",
@@ -3285,8 +3640,19 @@
     "network": "2G CDMA/3G CDMA2000/4G LTE"
   },
   {
+    "vendor": "sony",
+    "model": "Xperia TX",
+    "discontinued": true,
+    "code": "hayabusa",
+    "released": "2012-08-01",
+    "soc": "Qualcomm MSM8260A Snapdragon S4",
+    "ram": "1 GB",
+    "network": "2G GSM/3G UMTS"
+  },
+  {
     "vendor": "samsung",
     "model": "Galaxy S III (AT&T)",
+    "discontinued": true,
     "code": "d2att",
     "released": "2012-06-28",
     "soc": "Qualcomm MSM8960 Snapdragon S4 Plus",
@@ -3296,6 +3662,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S III (Sprint)",
+    "discontinued": true,
     "code": "d2spr",
     "released": "2012-06-28",
     "soc": "Qualcomm MSM8960 Snapdragon S4 Plus",
@@ -3305,6 +3672,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S III (Verizon)",
+    "discontinued": true,
     "code": "d2vzw",
     "released": "2012-06-28",
     "soc": "Qualcomm MSM8960 Snapdragon S4 Plus",
@@ -3314,6 +3682,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S III (T-Mobile)",
+    "discontinued": true,
     "code": "d2tmo",
     "released": "2012-06-21",
     "soc": "Qualcomm MSM8960 Snapdragon S4 Plus",
@@ -3323,8 +3692,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S III (International)",
+    "discontinued": true,
     "code": "i9300",
-    "released": "2012-05-28",
+    "released": "2012-05-01",
     "soc": "Samsung Exynos 4412",
     "ram": "1 GB",
     "network": "2G GSM/3G UMTS"
@@ -3332,8 +3702,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Tab 2 7.0 / Tab 2 10.1 (Wi-Fi / Wi-Fi + IR)",
+    "discontinued": true,
     "code": "espressowifi",
-    "released": "2012-05-28",
+    "released": "2012-05-01",
     "soc": "TI OMAP4430",
     "ram": "1 GB",
     "network": ""
@@ -3341,8 +3712,9 @@
   {
     "vendor": "samsung",
     "model": "Galaxy Tab 2 7.0 / Tab 2 10.1 (GSM)",
+    "discontinued": true,
     "code": "espresso3g",
-    "released": "2012-04-28",
+    "released": "2012-04-01",
     "soc": "TI OMAP4430",
     "ram": "1 GB",
     "network": "2G GSM"
@@ -3350,6 +3722,7 @@
   {
     "vendor": "motorola",
     "model": "Droid 4",
+    "discontinued": true,
     "code": "maserati",
     "released": "2012-02-10",
     "soc": "TI OMAP4430",
@@ -3359,8 +3732,9 @@
   {
     "vendor": "google",
     "model": "Galaxy Nexus LTE (Sprint)",
+    "discontinued": true,
     "code": "toroplus",
-    "released": "2012-01-28",
+    "released": "2012-01-01",
     "soc": "TI OMAP4460",
     "ram": "1 GB",
     "network": "2G CDMA/3G CDMA2000/4G LTE"
@@ -3368,6 +3742,7 @@
   {
     "vendor": "google",
     "model": "Galaxy Nexus LTE (Verizon)",
+    "discontinued": true,
     "code": "toro",
     "released": "2011-12-15",
     "soc": "TI OMAP4460",
@@ -3377,6 +3752,7 @@
   {
     "vendor": "motorola",
     "model": "Droid RAZR/RAZR MAXX (CDMA)",
+    "discontinued": true,
     "code": "spyder",
     "released": "2011-11-11",
     "soc": "TI OMAP4430",
@@ -3386,6 +3762,7 @@
   {
     "vendor": "motorola",
     "model": "RAZR/RAZR MAXX (GSM)",
+    "discontinued": true,
     "code": "umts_spyder",
     "released": "2011-11-11",
     "soc": "TI OMAP4430",
@@ -3395,8 +3772,9 @@
   {
     "vendor": "google",
     "model": "Galaxy Nexus GSM",
+    "discontinued": true,
     "code": "maguro",
-    "released": "2011-10-28",
+    "released": "2011-10-01",
     "soc": "TI OMAP4460",
     "ram": "1 GB",
     "network": "2G GSM/3G UMTS"
@@ -3404,6 +3782,7 @@
   {
     "vendor": "motorola",
     "model": "Droid Bionic",
+    "discontinued": true,
     "code": "targa",
     "released": "2011-09-08",
     "soc": "TI OMAP4430",
@@ -3413,6 +3792,7 @@
   {
     "vendor": "samsung",
     "model": "Galaxy S II",
+    "discontinued": true,
     "code": "i9100",
     "released": "2011-02-11",
     "soc": "Samsung Exynos 4210",
