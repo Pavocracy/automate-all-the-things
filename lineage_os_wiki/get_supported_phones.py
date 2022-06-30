@@ -33,11 +33,23 @@ if __name__ == "__main__":
                         td = info.find("td").get_text().strip().replace("\n", "/")
                         if th == "released":
                             try:
-                                released_date = parse(td)
+                                date = td.split(" ")
+                                if len(date) == 1:
+                                    date.insert(0, "January")
+                                    date.insert(0, "1st")
+                                if len(date) == 2:
+                                    date.insert(0, "1st")
+                                new_date = " ".join(date)
+                                released_date = parse(new_date)
                                 phone_info[th] = str(released_date).split(" ")[0]
                             except Exception:
                                 fix_release_date = findall("\d{4}", td)
-                                released_date = parse(fix_release_date[-1])
+                                date = []
+                                date.append(fix_release_date[-1])
+                                date.insert(0, "January")
+                                date.insert(0, "1st")
+                                new_date = " ".join(date)
+                                released_date = parse(new_date)
                                 phone_info[th] = str(released_date).split(" ")[0]
                         else:
                             phone_info[th] = td
