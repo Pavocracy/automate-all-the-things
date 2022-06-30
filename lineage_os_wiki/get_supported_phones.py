@@ -22,6 +22,7 @@ if __name__ == "__main__":
                 phone_info = {}
                 phone_info["vendor"] = vendor_name
                 phone_info["model"] = phone.find("span", {"class": "devicename"}).get_text().strip().replace("\n", "/")
+                phone_info["discontinued"] = True if "discontinued" in phone["class"] else False
                 phone_info["code"] = phone.find("span", {"class": "codename"}).get_text().strip()
                 phone_html = http.request("GET", base_url + phone_info["code"])
                 phone_soup = BeautifulSoup(phone_html.data, "html.parser")
